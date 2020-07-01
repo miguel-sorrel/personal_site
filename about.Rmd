@@ -2,4 +2,11 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name:__ Miguel A. Sorrel
+- __Ocupation:__ "Assistant professor at Autonomous University of Madrid "
+- __Research interests:__ Item response theory, Cognitive diagnosis modeling, Computerized adaptive testing, Statistical computing in R 
+- __R Projects:__ GDINA, cdcatR 
+
+Here is the hexsticker for the cdcatR package. 
+
+![](cdcatR.jpg)

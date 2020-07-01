@@ -1,30 +1,18 @@
 ---
-title: "Miguel A. Sorrels, PhD"
+title: "Home"
 ---
 
 __Look at how cool this plot is!__
 
-$$Y = \alpha \cdot \sin(X), \alpha = 0,0.1,0.2,...,3$$
-
-
 ## Remove # before ticks to get this to work. 
 ```{r, echo = FALSE, fig.align='center'}
-library(tidyverse)
-cool_function <- function(x, alpha) return(sin(alpha*x))
-xs <- seq(0, pi*1.5, 0.005)
-ys <- cool_function(xs, 1)
-results <- data_frame(xs, ys, alpha = "1")
-for(alpha in seq(0,3, 0.1)){
-  results <- results %>% 
-    bind_rows(data_frame(
-      xs, 
-      ys = cool_function(xs, alpha),
-      alpha = as.character(alpha)
-    ))
-}
+library(cdcatR)
+Q <- sim180GDINA$simQ
+K <- ncol(Q)
+dat <- sim180GDINA$simdat[1:100, ]
+fit <- GDINA::GDINA(dat = dat, Q = Q, verbose = 0) # GDINA 
+res.VARJ <- cdcat(fit = fit, dat = dat, FIXED.LENGTH = FALSE,
+                 MAXJ = 20, precision.cut = .80, n.cores = 2)
 
-ggplot(results, aes(x = xs, y = ys, color = alpha)) + 
-  geom_line() + 
-  theme_bw() + 
-  theme(legend.position="none")
+res.VARJ$est[[1]] # estimates for the first examinee (fixed-precision
 ```
