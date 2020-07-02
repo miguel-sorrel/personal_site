@@ -2,16 +2,16 @@
 title: "Home"
 ---
 
-__Look at how cool this plot is!__
+*Page under construction*
 
-```{r, echo = FALSE, fig.align='center'}
-library(cdcatR)
-Q <- sim180GDINA$simQ
-K <- ncol(Q)
-dat <- sim180GDINA$simdat[1:100, ]
-fit <- GDINA::GDINA(dat = dat, Q = Q, verbose = 0) # GDINA 
-res.VARJ <- cdcat(fit = fit, dat = dat, FIXED.LENGTH = FALSE,
-                 MAXJ = 20, precision.cut = .80, n.cores = 2 , print.progress = FALSE)
+Welcome to my website!  I am Assistant Professor in Methodology at the Autonomous University of Madrid. On this website you can find my CV, information about my research projects, lecture slides, and information on the software I have developed. You can contact me on: miguel.sorrel@uam.es. Also check out my Github site! Here is the hexsticker for the cdcatR package.
 
-att.plot(cdcat.obj = res.VARJ, i = 1) # plot  for the first examinee (fixed-precision)
-```
+<center>
+
+|   |   |
+|---|---|
+| ![](cdcatR.jpg){width=100%}| ![](me.jpg){width=50%} |
+
+</center>
+
+

@@ -2,11 +2,51 @@
 title: "Projects"
 ---
 
-In progress 
+*Page under construction*
+
+## [R Packages] 
+
+* cdcatR creator, maintainer
+
+|   |   |   |
+|---|---|---|
+| [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)| [![](https://cranlogs.r-pkg.org/badges/cdcatR?color=brightgreen)](https://cran.r-project.org/package=cdcatR) | [![](http://cranlogs.r-pkg.org/badges/grand-total/cdcatR?color=green)](https://cran.r-project.org/package=cdcatR) | 
+Citation:
+Sorrel, M. A., Nájera, N., & Abad, F. J. (2020). cdcatR:
+Cognitive Diagnostic Computerized Adaptive Testing. R package version 1.0.1. Retrived from <https://CRAN.R-project.org/package=cdcatR>
+
+* GDINA contributor
+
+|   |   |   |
+|---|---|---|
+| [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)| [![](https://cranlogs.r-pkg.org/badges/GDINA?color=brightgreen)](https://cran.r-project.org/package=GDINA) | [![](http://cranlogs.r-pkg.org/badges/grand-total/GDINA?color=green)](https://cran.r-project.org/package=GDINA) | 
+
+Citation:
+Ma, W. & de la Torre, J. (2020). GDINA: An R Package for Cognitive
+Diagnosis Modeling. *Journal of Statistical Software*, *93*(14), 1-26.
+<https://doi.org/10.18637/jss.v093.i14>
+
+Ma, W. & de la Torre, J. (2020).*GDINA: The generalized DINA model
+framework*. R package version 2.8.0. Retrived from
+<https://CRAN.R-project.org/package=GDINA>
 
 ## [Model Fit Evaluation]
 
 ## [Computerized Adaptive Testing]
+
+__Look at how cool this plot is!__
+
+```{r, echo = FALSE, fig.align='center', fig.width=4}
+library(cdcatR)
+Q <- sim180GDINA$simQ
+K <- ncol(Q)
+dat <- sim180GDINA$simdat[1:100, ]
+fit <- GDINA::GDINA(dat = dat, Q = Q, verbose = 0) # GDINA 
+res.VARJ <- cdcat(fit = fit, dat = dat, FIXED.LENGTH = FALSE,
+                 MAXJ = 20, precision.cut = .80, n.cores = 2 , print.progress = FALSE)
+
+att.plot(cdcat.obj = res.VARJ, i = 1) # plot  for the first examinee (fixed-precision)
+```
 
 ## [Psychometric Applications]
 
