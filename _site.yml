@@ -8,7 +8,7 @@ navbar:
     - text: "Projects"     ##### the new
       href: projects.html  ##### stuff
     - text: "Publications"     
-      href: projects.html  
+      href: publications.html  
 output:
   html_document:
     theme: flatly
