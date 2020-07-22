@@ -4,11 +4,15 @@ title: "Publications"
   
 *Page under construction*
 
+### [2020/in press] 
+
 <sup>18</sup> **Sorrel, M. A.**, Martínez-Huertas, J. A., & Arconada, M. (in press). It must have been burnout: Prevalence and related factors among Spanish PhD students. *Spanish Journal of Psychology*.
 
 <sup>17</sup> **Sorrel, M. A.**, Barrada, J. R., de la Torre, J., & Abad, F. J. (in press). Adapting cognitive diagnosis computerized adaptive testing item selection rules to traditional item response theory. *PLOS ONE*. doi:10.1371/journal.pone.0227196
 
 <sup>16</sup> Nájera, P., **Sorrel, M.A.**, & de la Torre, J. Abad, F. J. (in press). Improving robustness in Q-matrix validation using an iterative and dynamic procedure. *Applied Psychological Measurement.* doi:10.1177/0146621620909904
+
+### [2019] 
 
 <sup>15</sup> Collado, S., & **Sorrel, M. A.** (2019). Children’s environmental moral judgments: Variations according to type of victim and exposure to nature. *Journal of Environmental Psychology*, *62*,42-48. 
 
@@ -16,13 +20,18 @@ title: "Publications"
 
 <sup>13</sup> Yigit, H., **Sorrel, M. A.**, & de la Torre, J. (2019). Computerized adaptive testing for cognitively based multiple-choice data. *Applied Psychological Measurement*, *43*, 388-401.
 
+### [2018] 
+
 <sup>12</sup> Abad, F. J., **Sorrel, M. A.**, García, L.F., & Aluja, A. (2018). Modeling general, specific, and method variance in personality measures: Results for ZKA-PQ and NEO-PI-R. *Assessment*, *25*, 959-977. 
+### [2017] 
 
 <sup>11</sup> Collado, S., Evans, G., & **Sorrel, M. A.** (2017). The role of parents and best friends in children’s pro-environmentalism: differences according to age and gender. *Journal of Environmental Psychology*, *54*, 27-37. 
 
 <sup>10</sup> **Sorrel, M. A.**, de la Torre, J., Abad, F. J., & Olea, J. (2017). Two-step likelihood ratio test for item-level model comparison in cognitive diagnosis models. *Methodology*, *13*, 39-47.
 
 <sup>9</sup> **Sorrel, M. A.**, Abad, F. J., Olea, J., de la Torre, J., & Barrada, J. R. (2017). Inferential item fit evaluation in cognitive diagnosis modeling. *Applied Psychological Measurement*, *41*, 614-631.
+
+### [2016] 
 
 <sup>8</sup> Collado, S., Staats, H., & **Sorrel, M. A.** (2016). A relational model of perceived restorativeness: Intertwined effects of obligations, familiarity, security and parental supervision. *Journal of Environmental Psychology*, *48*, 24-32.
 
@@ -31,6 +40,8 @@ title: "Publications"
 <sup>6</sup> **Sorrel, M. A.**, Olea, J., Abad, F. J., de la Torre, J., Aguado, D., & Lievens, F. (2016). Validity and reliability of situational judgement test scores: A new approach based on cognitive diagnosis models. *Organizational Research Methods*, *19*, 506-532.
 
 <sup>5</sup> Collado, S., Staats, H., & **Sorrel, M. A.** (2016). Helping out on the land: Effects of children's role in agriculture on reported psychological restoration. *Journal of Environmental Psychology*, *45*, 201-209.
+
+### [2015] 
 
 <sup>4</sup> Abad, F. J., **Sorrel, M. A.**, Román, F. J., & Colom, R. (2015). The relationships between WAIS-IV factor index scores and educational level: A bifactor model approach. *Psychological Assessment*, *28*, 987-1000.
 

@@ -10,7 +10,7 @@ Welcome to my website!  I am Assistant Professor in Methodology at the Autonomou
 
 |   |   |
 |---|---|
-| ![](cdcatR.jpg){width=100%}| ![](me.jpg){width=50%} |
+| ![](cdcatR_hex.png){width=100%}| ![](me.jpg){width=50%} |
 
 </center>
 
