@@ -46,22 +46,4 @@ Innovation Project PS_006.19_INN funded by UAM. Other team members are: Rodrigo 
 
 ![](logo.png){width=25%}
 
-## [Model Fit Evaluation]
 
-## [Computerized Adaptive Testing]
-
-```{r, echo = TRUE, fig.align='center', fig.width=4}
-library(cdcatR)
-Q <- sim180GDINA$simQ
-K <- ncol(Q)
-dat <- sim180GDINA$simdat[1:100, ]
-fit <- GDINA::GDINA(dat = dat, Q = Q, verbose = 0) # GDINA 
-res.VARJ <- cdcat(fit = fit, dat = dat, FIXED.LENGTH = FALSE,
-                 MAXJ = 20, precision.cut = .80, n.cores = 2 , print.progress = FALSE)
-
-att.plot(cdcat.obj = res.VARJ, i = 1) # plot  for the first examinee (fixed-precision)
-```
-
-## [Psychometric Applications]
-
-## [Collaborations]

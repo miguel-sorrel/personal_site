@@ -353,32 +353,6 @@ $(document).ready(function () {
 <p><img src="logo.png" style="width:25.0%" /></p>
 </div>
 </div>
-<div id="model-fit-evaluation" class="section level2">
-<h2>[Model Fit Evaluation]</h2>
-</div>
-<div id="computerized-adaptive-testing" class="section level2">
-<h2>[Computerized Adaptive Testing]</h2>
-<pre class="r"><code>library(cdcatR)</code></pre>
-<pre><code>## ==============================
-## cdcatR Package [Version 1.0.2; 2020-07-14]
-## More information: https://github.com/miguel-sorrel/cdcatR
-## ==============================</code></pre>
-<pre class="r"><code>Q &lt;- sim180GDINA$simQ
-K &lt;- ncol(Q)
-dat &lt;- sim180GDINA$simdat[1:100, ]
-fit &lt;- GDINA::GDINA(dat = dat, Q = Q, verbose = 0) # GDINA 
-res.VARJ &lt;- cdcat(fit = fit, dat = dat, FIXED.LENGTH = FALSE,
-                 MAXJ = 20, precision.cut = .80, n.cores = 2 , print.progress = FALSE)
-
-att.plot(cdcat.obj = res.VARJ, i = 1) # plot  for the first examinee (fixed-precision)</code></pre>
-<p><img src="projects_files/figure-html/unnamed-chunk-1-1.png" width="384" style="display: block; margin: auto;" /></p>
-</div>
-<div id="psychometric-applications" class="section level2">
-<h2>[Psychometric Applications]</h2>
-</div>
-<div id="collaborations" class="section level2">
-<h2>[Collaborations]</h2>
-</div>
 
 
 
