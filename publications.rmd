@@ -6,11 +6,15 @@ title: "Publications"
 
 ### [2020/in press] 
 
-<sup>18</sup> **Sorrel, M. A.**, Martínez-Huertas, J. A., & Arconada, M. (in press). It must have been burnout: Prevalence and related factors among Spanish PhD students. *Spanish Journal of Psychology*.
+<sup>20</sup> Nájera, P., **Sorrel, M. A.**, de la Torre, J., & Abad, F. J. (in press). Balancing fit and parsimony to improve Q-matrix validation. British Journal of Mathematical and Statistical Psychology. doi:10.1111/bmsp.12228
 
-<sup>17</sup> **Sorrel, M. A.**, Barrada, J. R., de la Torre, J., & Abad, F. J. (in press). Adapting cognitive diagnosis computerized adaptive testing item selection rules to traditional item response theory. *PLOS ONE*. doi:10.1371/journal.pone.0227196
+<sup>19</sup> **Sorrel, M. A.**, Abad, F.J., & Nájera, P. (2020). Improving accuracy and usage by correctly selecting: The effects of model selection in cognitive diagnosis computerized adaptive testing. *Applied Psychological Measurement*. doi:10.1177/0146621620977682
 
-<sup>16</sup> Nájera, P., **Sorrel, M.A.**, & de la Torre, J. Abad, F. J. (in press). Improving robustness in Q-matrix validation using an iterative and dynamic procedure. *Applied Psychological Measurement.* doi:10.1177/0146621620909904
+<sup>18</sup> **Sorrel, M. A.**, Martínez-Huertas, J. A., & Arconada, M. (2020). It must have been burnout: Prevalence and related factors among Spanish PhD students. *Spanish Journal of Psychology*.
+
+<sup>17</sup> **Sorrel, M. A.**, Barrada, J. R., de la Torre, J., & Abad, F. J. (2020). Adapting cognitive diagnosis computerized adaptive testing item selection rules to traditional item response theory. *PLOS ONE*. doi:10.1371/journal.pone.0227196
+
+<sup>16</sup> Nájera, P., **Sorrel, M.A.**, & de la Torre, J. Abad, F. J. (2020). Improving robustness in Q-matrix validation using an iterative and dynamic procedure. *Applied Psychological Measurement.* doi:10.1177/0146621620909904
 
 ### [2019] 
 
