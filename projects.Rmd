@@ -50,8 +50,7 @@ Ma, W. & de la Torre, J. (2020). GDINA: An R Package for Cognitive
 Diagnosis Modeling. *Journal of Statistical Software*, *93*(14), 1-26.
 <https://doi.org/10.18637/jss.v093.i14>
 
-Ma, W. & de la Torre, J. (2022).*GDINA: The generalized DINA model framework*. R package version 2.8.8. Retrived from
-<https://CRAN.R-project.org/package=GDINA>
+Ma, W. & de la Torre, J. (2022).*GDINA: The generalized DINA model framework*. R package version 2.8.8. Retrived from https://CRAN.R-project.org/package=GDINA
 
 Tutorial:
 Shi, Q., Ma, W., Robitzsch, A., Sorrel, M. A., Man, K. (2021). Cognitive diagnosis analysis in the G-DINA model using R. *Psych*, 3(4), 812-835. https://doi.org/10.3390/psych3040052
