@@ -6,6 +6,32 @@ title: "Publications"
 
 ### [2022/in press] 
 
+<sup>32</sup> Kreitchmann, R., **Sorrel, M. A.**, & Abad, F. J. (in press). On bank assembly and block selection in multidimensional forced-choice adaptive assessments. *Educational and Psychological Measurement*. https://doi.org/10.1177/00131644221087986
+
+<sup>31</sup> Franco-Martínez, A., Alvarado, J., & **Sorrel, M. A.** (in press). Range restriction affects factor analysis: Normality, estimation, fit, loadings, and reliability. *Educational and Psychological Measurement*. https://doig.org/10.1177/00131644221081867
+
+<sup>30</sup> Urieta, P. **Sorrel, M. A.**, Aluja, A., Balada, F., Lacomba, E., & García, L. F. Exploring the relationship between personality, decision-making styles, and problematic smartphone use. *Current Psychology*. https://doi.org/10.1007/s12144-022-02731-w
+
+<sup>29</sup> Abad, F. J., Kreitchmann, R. S., **Sorrel, M. A.**, Nájera, P., García-Garzón, E., Garrido, L. E., Jiménez, M. (2022). Building adaptive forced choice tests “on the fly” for personality measurement. *Papeles del Psicólogo*, 43, 29-35. https://doi.org/10.23923/pap.psicol.2982
+
+### [2021] 
+
+<sup>28</sup> Shi, Q., Ma, W., Robitzsch, A., Sorrel, M. A., Man, K. (2021). Cognitive diagnosis analysis in the G-DINA model using R. *Psych*, 3(4), 812-835. https://doi.org/10.3390/psych3040052
+
+<sup>27</sup> Kreitchmann, R. S., Abad, F. J., & **Sorrel, M. A.** (in press). A genetic algorithm for optimal assembly of pairwise forced-choice questionnaires. *Behavior Research Methods*. https://doi.org/10.3758/s13428-021-01677-4
+
+<sup>26</sup> **Sorrel, M. A.**, Aluja, A., García, L. F., & Gutiérrez, F. (in press). Psychometric Properties of the Five-Factor Personality Inventory for ICD-11 (FFiCD) in Spanish Community Samples. *Psychological Assessment*, 34(3), 281-293. https://doi.org/10.1037/pas0001084
+
+<sup>25</sup> Aluja, A., **Sorrel, M. A.**, Garcia, L., García, O., & Gutiérrez, F. (in press). Factor convergence and predictive analysis of the Five Factor and Alternative Five Factor personality models with the Five-Factor Personality Inventory for ICD11 (FFiCD). *Journal of Personality Disorders*.
+
+<sup>24</sup> **Sorrel, M. A.**, Nájera*, P., & Abad, F. J. (2021). cdcatR: An R Package for Cognitive Diagnostic Computerized Adaptive Testing. *Psych*, 3(4), 386-403. https://doi.org/10.3390/psych3030028
+
+<sup>23</sup> **Sorrel, M. A.**, García, L. F., Aluja, A., Rolland, J. P., Rossier, J., Roskam , I.,  & Abad, F. J. (2021). Cross-Cultural Measurement Invariance in the Personality Inventory for DSM-5. *Psychiatry Research*. https://doi.org/10.1016/j.psychres.2021.114134
+
+<sup>22</sup> Collado, S., Rodríguez-Rey, R., & **Sorrel, M. A.** (2021). Does beauty matter? The effect of perceived attractiveness on children’s moral judgments of harmful actions against animals. *Environment and Behavior*. doi:0013965211014626
+
+<sup>21</sup> Nájera, P., Abad, F. J., & **Sorrel, M. A.** (2020). Determining the number of attributes in cognitive diagnosis modeling. *Frontiers in Psychology*. doi:10.3389/fpsyg.2021.614470
+
 ### [2020] 
 
 <sup>20</sup> Nájera, P., **Sorrel, M. A.**, de la Torre, J., & Abad, F. J. (in press). Balancing fit and parsimony to improve Q-matrix validation. British Journal of Mathematical and Statistical Psychology. doi:10.1111/bmsp.12228
@@ -56,3 +82,6 @@ title: "Publications"
 <sup>2</sup> Lievens, F., Corstjens, J., **Sorrel, M. A.**, Abad, F. J., Olea, J., & Ponsoda, V. (2015). The cross‐cultural transportability of situational judgment tests: How does a US‐based integrity situational judgment test fare in España?. *International Journal of Selection and Assessment*, *23*, 361-372.
 
 <sup>1</sup> Collado, S., Corraliza, J. A., **Sorrel, M. A.**, & W Evans, G. (2015). Spanish version of the Children’s Ecological Behavior (CEB) scale. *Psicothema*, *26*, 82-87.
+
+### [Dissertation]
+Advances in Cognitive Diagnosis Modeling (2018, April). You can find my dissertation here https://repositorio.uam.es/handle/10486/682712. It was co-advised by Francisco J. Abad and Julio Olea.

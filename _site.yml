@@ -1,7 +1,7 @@
-name: "Miguel A. Sorrels, PhD"
+name: "Miguel A. Sorrel, PhD"
 output_dir: "."
 navbar:
-  title: "Miguel A. Sorrels, PhD"
+  title: "Miguel A. Sorrel, PhD"
   left:
     - text: "Home"
       href: index.html
@@ -9,6 +9,10 @@ navbar:
       href: projects.html  ##### stuff
     - text: "Publications"     
       href: publications.html  
+    # - text: "cdcatR Illustration"     
+    #   href: cdcatR.html  
+    # - text: "Tutorials"
+    #   href: tutorials.html
 output:
   html_document:
     theme: flatly
