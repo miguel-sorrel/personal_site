@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -274,7 +278,52 @@ $(document).ready(function () {
 
 <p><em>Page under construction</em></p>
 <div id="in-press" class="section level3">
-<h3>[2022/in press]</h3>
+<h3>[2023/in press]</h3>
+<p><sup>40</sup> Nájera, P., Abad, F. J., &amp; <strong>Sorrel, M.
+A.</strong> (manuscript accepted for publication). Is EFA always to be
+preferred? A systematic comparison of factor analytic techniques
+throughout the confirmatory-exploratory continuum. <em>Psychological
+Methods</em>.</p>
+<p><sup>39</sup> Nájera, P., Abad, F.J., Chiu, C-Y., &amp;
+<strong>Sorrel, M.A.</strong> (manuscript accepted for publication). A
+Comprehensive Cognitive Diagnostic Method for Classroom-Level
+Assessments. <em>Journal of Educational and Behavioral
+Statistics</em>.</p>
+<p><sup>38</sup> Sanz, S., Kreitchmann, R. S., Nájera, P., Moreno, J.
+D., Martínez-Huertas, J. A., &amp; Sorrel, M. A. (manuscript accepted
+for publication). FoCo: A Shiny app for formative assessment using
+cognitive diagnosis modeling. <em>Psicología Educativa</em>.</p>
+<p><sup>37</sup> Horcajo, J., Gil, Rafael, &amp; <strong>Sorrel, M.
+A.</strong> (manuscript accepted for publication). Adaptation to Spanish
+of the Need for Affect Questionnaire Need for affect scale validation.
+<em>Psicothema</em>.</p>
+<p><sup>36</sup> Collado, S., Fidalgo, C., Rodriguez-Rey, &amp;
+<strong>Sorrel, M. A.</strong>. (2023), Development of a self-efficacy
+scale for writing and defending academic texts. <em>Psicología
+Educativa</em>. <em>29</em>(1) 91-99. <a
+href="https://doi.org/10.5093/psed2022a15"
+class="uri">https://doi.org/10.5093/psed2022a15</a></p>
+</div>
+<div id="section" class="section level3">
+<h3>[2022]</h3>
+<p><sup>35</sup> Gámez-Guadix, M., <strong>Sorrel, M. A.</strong>, &amp;
+Martínez-Bacaicoa, J. Technology facilitated sexual violence
+perpetration and victimization among adolescents: A network analysis
+(2022). <em>Sexuality Research and Social Policy</em>. <a
+href="https://doi.org/10.1007/s13178-022-00775-y"
+class="uri">https://doi.org/10.1007/s13178-022-00775-y</a></p>
+<p><sup>34</sup> Kreitchmann, R. S., de la Torre, J., <strong>Sorrel, M.
+A.</strong>, Nájera, P., &amp; Abad, F. J. (2022). Improving reliability
+estimation in cognitive diagnosis modeling. <em>Behavior Research
+Methods</em>, 1-15. <a href="https://doi.org/10.3758/s13428-022-01967-5"
+class="uri">https://doi.org/10.3758/s13428-022-01967-5</a></p>
+<p><sup>33</sup> Gutierrez, F., Aluja, A., Ruiz-Rodríguez, J., Peri, J.,
+Gárriz, M., García, L., <strong>Sorrel, M. A.</strong>, Sureda, B.,
+Vall, G., Ferrer, M., &amp; Calvo, N. Borderline, Where Are You? A
+Psychometric and Symptomic Approach to the ICD-11 Personality Domains
+(2022). <em>Personality Disorders: Theory, Research, and Treatment</em>.
+<a href="https://doi.org/10.1037/per0000592"
+class="uri">https://doi.org/10.1037/per0000592</a></p>
 <p><sup>32</sup> Kreitchmann, R., <strong>Sorrel, M. A.</strong>, &amp;
 Abad, F. J. (in press). On bank assembly and block selection in
 multidimensional forced-choice adaptive assessments. <em>Educational and
@@ -300,7 +349,7 @@ personality measurement. <em>Papeles del Psicólogo</em>, 43, 29-35. <a
 href="https://doi.org/10.23923/pap.psicol.2982"
 class="uri">https://doi.org/10.23923/pap.psicol.2982</a></p>
 </div>
-<div id="section" class="section level3">
+<div id="section-1" class="section level3">
 <h3>[2021]</h3>
 <p><sup>28</sup> Shi, Q., Ma, W., Robitzsch, A., Sorrel, M. A., Man, K.
 (2021). Cognitive diagnosis analysis in the G-DINA model using R.
@@ -345,7 +394,7 @@ diagnosis modeling. <em>Frontiers in Psychology</em>. <a
 href="doi:10.3389/fpsyg.2021.614470"
 class="uri">doi:10.3389/fpsyg.2021.614470</a></p>
 </div>
-<div id="section-1" class="section level3">
+<div id="section-2" class="section level3">
 <h3>[2020]</h3>
 <p><sup>20</sup> Nájera, P., <strong>Sorrel, M. A.</strong>, de la
 Torre, J., &amp; Abad, F. J. (in press). Balancing fit and parsimony to
@@ -374,7 +423,7 @@ validation using an iterative and dynamic procedure. <em>Applied
 Psychological Measurement.</em> <a href="doi:10.1177/0146621620909904"
 class="uri">doi:10.1177/0146621620909904</a></p>
 </div>
-<div id="section-2" class="section level3">
+<div id="section-3" class="section level3">
 <h3>[2019]</h3>
 <p><sup>15</sup> Collado, S., &amp; <strong>Sorrel, M. A.</strong>
 (2019). Children’s environmental moral judgments: Variations according
@@ -389,7 +438,7 @@ Torre, J. (2019). Computerized adaptive testing for cognitively based
 multiple-choice data. <em>Applied Psychological Measurement</em>,
 <em>43</em>, 388-401.</p>
 </div>
-<div id="section-3" class="section level3">
+<div id="section-4" class="section level3">
 <h3>[2018]</h3>
 <p><sup>12</sup> Abad, F. J., <strong>Sorrel, M. A.</strong>, García,
 L.F., &amp; Aluja, A. (2018). Modeling general, specific, and method
@@ -408,7 +457,7 @@ de la Torre, J., &amp; Barrada, J. R. (2017). Inferential item fit
 evaluation in cognitive diagnosis modeling. <em>Applied Psychological
 Measurement</em>, <em>41</em>, 614-631.</p>
 </div>
-<div id="section-4" class="section level3">
+<div id="section-5" class="section level3">
 <h3>[2016]</h3>
 <p><sup>8</sup> Collado, S., Staats, H., &amp; <strong>Sorrel, M.
 A.</strong> (2016). A relational model of perceived restorativeness:
@@ -430,7 +479,7 @@ A.</strong> (2016). Helping out on the land: Effects of children’s role
 in agriculture on reported psychological restoration. <em>Journal of
 Environmental Psychology</em>, <em>45</em>, 201-209.</p>
 </div>
-<div id="section-5" class="section level3">
+<div id="section-6" class="section level3">
 <h3>[2015]</h3>
 <p><sup>4</sup> Abad, F. J., <strong>Sorrel, M. A.</strong>, Román, F.
 J., &amp; Colom, R. (2015). The relationships between WAIS-IV factor
