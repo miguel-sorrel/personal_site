@@ -26,7 +26,7 @@ Sorrel, M. A., Nájera, N., & Abad, F. J. (2022). *cdcatR: Cognitive Diagnostic 
 Tutorial:
 Sorrel, M. A., Nájera, P., & Abad, F. J. (2021). cdcatR: An R Package for Cognitive Diagnostic Computerized Adaptive Testing. *Psych*, 3(4), 386-403. https://doi.org/10.3390/psych3030028
 
-![](cdcatR_hex.png){width=10%}
+![](cdcatR_hex.png){width=15%}
 
 * **cdmTools** creator
 
@@ -37,7 +37,7 @@ Sorrel, M. A., Nájera, P., & Abad, F. J. (2021). cdcatR: An R Package for Cogni
 Citation:
 Nájera, N., Sorrel, M. A., & Abad, F. J. (2022). *cdmTools: Useful Tools for Cognitive Diagnosis Modeling*. R package version 1.0.2. Retrived from <https://CRAN.R-project.org/package=cdcatR>
 
-![](cdmTools_hex.png){width=10%}
+![](cdmTools_hex.png){width=15%}
 
 * **GDINA** contributor
 
@@ -72,6 +72,8 @@ Innovation Project PS_006.19_INN and PS_002.21_IMP funded by UAM. Other team mem
 This application allows for nonparametric CD-CAT implementations using the nonparametric item selection method. Users can create (upload item bank and Q-matrix) and administer item pools. \\
 
 You can access the app using the following link: https://psychometricmodelling.shinyapps.io/cdcatS/
+
+![](cdcatS_hex.png){width=15%}
 
 * **FCoptimization: A Genetic Algorithm for the Optimal Assembly of Pairwise Forced-Choice Questionnaires**, co-author.
 
