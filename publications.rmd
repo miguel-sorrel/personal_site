@@ -2,8 +2,6 @@
 title: "Publications"
 ---
   
-*Page under construction*
-
 ### [2023/in press] 
 
 <sup>40</sup> Nájera, P., Abad, F. J., & **Sorrel, M. A.** (manuscript accepted for publication). Is EFA always to be preferred? A systematic comparison of factor analytic techniques throughout the confirmatory-exploratory continuum. *Psychological Methods*.  
@@ -14,13 +12,10 @@ title: "Publications"
 
 <sup>37</sup> Horcajo, J., Gil, Rafael, & **Sorrel, M. A.** (manuscript accepted for publication). Adaptation to Spanish of the Need for Affect Questionnaire Need for affect scale validation. *Psicothema*.
 
-
 <sup>36</sup> Collado, S., Fidalgo, C., Rodriguez-Rey, & **Sorrel, M. A.**. (2023), Development of a self-efficacy scale for writing and defending academic texts. *Psicología Educativa*. *29*(1) 91-99. https://doi.org/10.5093/psed2022a15 
-
 ### [2022] 
 
 <sup>35</sup> Gámez-Guadix, M., **Sorrel, M. A.**, & Martínez-Bacaicoa, J. Technology facilitated sexual violence perpetration and victimization among adolescents: A network analysis (2022). *Sexuality Research and Social Policy*. https://doi.org/10.1007/s13178-022-00775-y 
-
 <sup>34</sup> Kreitchmann, R. S., de la Torre, J., **Sorrel, M. A.**, Nájera, P., & Abad, F. J. (2022). Improving reliability estimation in cognitive diagnosis modeling. *Behavior Research Methods*, 1-15. https://doi.org/10.3758/s13428-022-01967-5
 
 <sup>33</sup> Gutierrez, F., Aluja, A., Ruiz-Rodríguez, J., Peri, J., Gárriz, M., García, L., **Sorrel, M. A.**, Sureda, B., Vall, G., Ferrer, M., & Calvo, N. Borderline, Where Are You? A Psychometric and Symptomic Approach to the ICD-11 Personality Domains (2022). *Personality Disorders: Theory, Research, and Treatment*. https://doi.org/10.1037/per0000592
