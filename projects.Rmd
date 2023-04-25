@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-*Page under construction*
-
 ## [Research Projects] 
 
 * **Study of statistical procedures for diagnostic evaluation in educational contexts**. Principal Investigator. (01/01/2022 - 31/12/2023. €7,358.66)
@@ -12,7 +10,7 @@ Research Team: Francisco J. Abad, Jimmy de la Torre, Pablo Nájera(1), Rodrigo S
 
 ## [Software] 
 
-### [R Packages] 
+#### [R Packages] 
 
 * **cdcatR** creator, maintainer
 
@@ -55,7 +53,7 @@ Ma, W. & de la Torre, J. (2022).*GDINA: The generalized DINA model framework*. R
 Tutorial:
 Shi, Q., Ma, W., Robitzsch, A., Sorrel, M. A., Man, K. (2021). Cognitive diagnosis analysis in the G-DINA model using R. *Psych*, 3(4), 812-835. https://doi.org/10.3390/psych3040052
 
-### [Computer programs and Apps] 
+#### [Computer programs and Apps] 
 
 * **FoCo: A Shiny App for Formative Assessment and Self-Evaluation of Competencies**, creator, maintainer, project coordinator
 

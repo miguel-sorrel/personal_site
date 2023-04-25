@@ -13,10 +13,10 @@
 
 <title>Projects</title>
 
-<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -179,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -188,9 +188,16 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "\e258";
-  font-family: 'Glyphicons Halflings';
+  content: "&#xe258;";
   border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -272,7 +279,6 @@ $(document).ready(function () {
 </div>
 
 
-<p><em>Page under construction</em></p>
 <div id="research-projects" class="section level2">
 <h2>[Research Projects]</h2>
 <ul>
@@ -289,8 +295,8 @@ SI3/PJI/2021-00258).</p>
 </div>
 <div id="software" class="section level2">
 <h2>[Software]</h2>
-<div id="r-packages" class="section level3">
-<h3>[R Packages]</h3>
+<div id="r-packages" class="section level4">
+<h4>[R Packages]</h4>
 <ul>
 <li><strong>cdcatR</strong> creator, maintainer</li>
 </ul>
@@ -410,8 +416,8 @@ class="uri">https://CRAN.R-project.org/package=GDINA</a></p>
 href="https://doi.org/10.3390/psych3040052"
 class="uri">https://doi.org/10.3390/psych3040052</a></p>
 </div>
-<div id="computer-programs-and-apps" class="section level3">
-<h3>[Computer programs and Apps]</h3>
+<div id="computer-programs-and-apps" class="section level4">
+<h4>[Computer programs and Apps]</h4>
 <ul>
 <li><strong>FoCo: A Shiny App for Formative Assessment and
 Self-Evaluation of Competencies</strong>, creator, maintainer, project

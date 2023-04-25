@@ -5,10 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Projects"     ##### the new
-      href: projects.html  ##### stuff
-    - text: "Small Sample CDM"     ##### the new
-      href: cdmproyect.html  ##### stuff
+    - text: "Projects"     
+      href: projects.html  
+    - text: "Small Sample CDM"     
+      href: cdmproyect.html  
     - text: "Publications"     
       href: publications.html  
     # - text: "cdcatR Illustration"     

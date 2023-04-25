@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-Welcome to my website!  Since 2019 I am Assistant Professor in Methodology at the Autonomous University of Madrid. On this website you can find my CV, information about my research projects, lecture slides, and information on the software I have developed. You can contact me on: miguel.sorrel@uam.es. Also check out my Github site! Here is the hexsticker for the cdcatR package.
+Welcome to my website!  Since 2019 I am Assistant Professor in Methodology at the Autonomous University of Madrid. On this website you can find information about my research projects and the software I have developed. You can contact me on: miguel.sorrel@uam.es. Also check out my Github site! Here is the hexsticker for the cdcatR package.
 
 <center>
 
