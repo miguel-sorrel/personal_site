@@ -24,7 +24,7 @@ Sorrel, M. A., Nájera, N., & Abad, F. J. (2022). *cdcatR: Cognitive Diagnostic 
 Tutorial:
 Sorrel, M. A., Nájera, P., & Abad, F. J. (2021). cdcatR: An R Package for Cognitive Diagnostic Computerized Adaptive Testing. *Psych*, 3(4), 386-403. https://doi.org/10.3390/psych3030028
 
-![](cdcatR_hex.png){width=15%}
+![](images/cdcatR_hex.png){width=15%}
 
 * **cdmTools** creator
 
@@ -35,7 +35,7 @@ Sorrel, M. A., Nájera, P., & Abad, F. J. (2021). cdcatR: An R Package for Cogni
 Citation:
 Nájera, N., Sorrel, M. A., & Abad, F. J. (2022). *cdmTools: Useful Tools for Cognitive Diagnosis Modeling*. R package version 1.0.2. Retrived from <https://CRAN.R-project.org/package=cdcatR>
 
-![](cdmTools_hex.png){width=15%}
+![](images/cdmTools_hex.png){width=15%}
 
 * **GDINA** contributor
 
@@ -63,7 +63,7 @@ You can access the app using the following link: https://foco.shinyapps.io/FoCo/
 
 Innovation Project PS_006.19_INN and PS_002.21_IMP funded by UAM. Other team members are: Rodrigo S. Kreitchmann, Francisco Jose Abad,  Carmen García, Jose Ángel Martínez-Huertas, David Moreno, Pablo Nájera, María Dolores Nieto, Ricardo Olmos, Cristina Rey Díaz, and Susana Sanz
 
-![](logo.png){width=20%}
+![](images/logo.png){width=20%}
 
 * **cdcatS: A Shiny App for Formative Assessment and Self-Evaluation of Competencies**, co-author
 
@@ -71,7 +71,7 @@ This application allows for nonparametric CD-CAT implementations using the nonpa
 
 You can access the app using the following link: https://psychometricmodelling.shinyapps.io/cdcatS/
 
-![](cdcatS_hex.png){width=15%}
+![](images/cdcatS_hex.png){width=15%}
 
 * **FCoptimization: A Genetic Algorithm for the Optimal Assembly of Pairwise Forced-Choice Questionnaires**, co-author.
 

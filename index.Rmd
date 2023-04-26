@@ -8,7 +8,7 @@ Welcome to my website!  Since 2019 I am Assistant Professor in Methodology at th
 
 |   |   |
 |---|---|
-| ![](cdcatR_hex.png){width=50%}| ![](me.jpg){width=25%} |
+| ![](images/cdcatR_hex.png){width=40%}| ![](images/miguel-sorrel-small.png){width=40%} |
 
 </center>
 
