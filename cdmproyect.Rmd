@@ -4,7 +4,7 @@ title: "Diagnostic evaluation in small sample conditions"
 
 **Study of statistical procedures for diagnostic evaluation in educational contexts** research team:
 
-![](team.png){width=100%}
+![](images/team.png){width=100%}
 
 Some results:
 

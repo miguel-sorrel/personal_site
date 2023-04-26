@@ -1,7 +1,7 @@
-name: "Miguel A. Sorrel, PhD"
+name: "Miguel A. Sorrel"
 output_dir: "."
 navbar:
-  title: "Miguel A. Sorrel, PhD"
+  title: "Miguel A. Sorrel"
   left:
     - text: "Home"
       href: index.html
@@ -15,6 +15,16 @@ navbar:
     #   href: cdcatR.html  
     # - text: "Tutorials"
     #   href: tutorials.html
+  right:
+    - icon: envelope
+      aria-label: email
+      href: "mailto:miguel.sorrel@uam.es"
+    - icon: github
+      href: https://github.com/miguel-sorrel
+    - icon: google
+      href: https://scholar.google.es/citations?user=Q_7t0rEAAAAJ&hl=es
+    - icon: twitter
+      href: https://twitter.com/MigSorrel
 output:
   html_document:
     theme: flatly
