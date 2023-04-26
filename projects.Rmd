@@ -6,7 +6,7 @@ title: "Projects"
 
 * **Study of statistical procedures for diagnostic evaluation in educational contexts**. Principal Investigator. (01/01/2022 - 31/12/2023. €7,358.66)
 
-Research Team: Francisco J. Abad, Jimmy de la Torre, Pablo Nájera(1), Rodrigo S. Kreicthmann(1) [(1): to be incorporated]. This work has been funded by the Community of Madrid through the Pluriannual Agreement with the Universidad de Universidad Autónoma de Madrid in its Programa de Estímulo a la Investigación de Jóvenes Doctores (Reference SI3/PJI/2021-00258).
+Research Team: Francisco J. Abad, Jimmy de la Torre, Pablo Nájera(1), and Rodrigo S. Kreicthmann(1) [(1): to be incorporated]. This work has been funded by the Community of Madrid through the Pluriannual Agreement with the Universidad de Universidad Autónoma de Madrid in its Programa de Estímulo a la Investigación de Jóvenes Doctores (Reference SI3/PJI/2021-00258).
 
 ## [Software] 
 
