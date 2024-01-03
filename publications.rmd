@@ -1,21 +1,35 @@
 ---
 title: "Publications"
 ---
-  
-### [2023/in press] 
 
-<sup>40</sup> Nájera, P., Abad, F. J., & **Sorrel, M. A.** (manuscript accepted for publication). Is EFA always to be preferred? A systematic comparison of factor analytic techniques throughout the confirmatory-exploratory continuum. *Psychological Methods*.  
+### [in press]
 
-<sup>39</sup> Nájera, P., Abad, F.J., Chiu, C-Y., & **Sorrel, M.A.** (manuscript accepted for publication). A Comprehensive Cognitive Diagnostic Method for Classroom-Level Assessments. *Journal of Educational and Behavioral Statistics*. 
+<sup>45</sup> Martínez-Bacaicoa, J., **Sorrel, M. A.**, & Gámez-Guadix, M. (Manuscript accepted for publication) Development and Validation of Technology-Facilitated Sexual Violence Perpetration and Victimization Scales among Adults. *Assessment*.
 
-<sup>38</sup> Sanz, S., Kreitchmann, R. S., Nájera, P., Moreno, J. D., Martínez-Huertas, J. A., & Sorrel, M. A. (manuscript accepted for publication). FoCo: A Shiny app for formative assessment using cognitive diagnosis modeling. *Psicología Educativa*. 
+<sup>44</sup> Ma, W., **Sorrel, M. A.**, Ge, Y., & Zhai, X. (Manuscript accepted for publication). A dual-purpose model for estimating ability and misconceptions. *Journal of Educational Measurement*.
 
-<sup>37</sup> Horcajo, J., Gil, Rafael, & **Sorrel, M. A.** (manuscript accepted for publication). Adaptation to Spanish of the Need for Affect Questionnaire Need for affect scale validation. *Psicothema*.
+<sup>43</sup> Kreitchmann, R. S., Nájera, P., Sanz, S., & **Sorrel, M. A.** (Manuscript accepted for publication). Enhancing content validity assessment via item response theory modeling. *Psicothema*.
+
+### [2023] 
+
+<sup>42</sup> La Touche R, Castillejos-Carrasco-Muñoz R, Tapia-Toca MC, Pardo-Montero J, Lerma-Lara S, de la Rosa-Díaz I, **Sorrel, M. A.**, & Paris-Alemany A. (2023). Development and validation of the dizziness fear-avoidance behaviours and beliefs inventory for patients with vestibular disorders. *PeerJ*, 11:e15940, https://doi.org/10.7717/peerj.15940 
+
+<sup>41</sup> **Sorrel, M. A.**, Escudero, S., Nájera, P., Kreitchmann, R. S., & Vázquez-Lira, R. (2023). Exploring approaches for estimating parameters in cognitive diagnosis models with small sample sizes. *Psych*, *5*(2), 336-349. https://doi.org/10.3390/psych5020023 
+
+<sup>40</sup> Nájera, P., Abad, F. J., & **Sorrel, M. A.** (2023). Is EFA always to be preferred? A systematic comparison of factor analytic techniques throughout the confirmatory-exploratory continuum. *Psychological Methods*. https://doi.org/10.1037/met0000579
+
+<sup>39</sup> Nájera, P., Abad, F.J., Chiu, C-Y., & **Sorrel, M.A.** (2023). A Comprehensive Cognitive Diagnostic Method for Classroom-Level Assessments. *Journal of Educational and Behavioral Statistics*. https://doi.org/10.1037/10769986231158829
+
+<sup>38</sup> Sanz, S., Kreitchmann, R. S., Nájera, P., Moreno, J. D., Martínez-Huertas, J. A., & **Sorrel, M. A.** (2023). FoCo: A Shiny app for formative assessment using cognitive diagnosis modeling. *Educational Psychology*, *29*(2), 149-158. https://doi.org/10.5093/psed2022a14
+
+<sup>37</sup> Horcajo, J., Gil, Rafael, & **Sorrel, M. A.** (2023). Adaptation to Spanish of the Need for Affect Questionnaire Need for affect scale validation. *Psicothema*, *35*(3) 279-289. https://doi.org/10.7334/psicothema2022.328 
 
 <sup>36</sup> Collado, S., Fidalgo, C., Rodriguez-Rey, & **Sorrel, M. A.**. (2023), Development of a self-efficacy scale for writing and defending academic texts. *Psicología Educativa*. *29*(1) 91-99. https://doi.org/10.5093/psed2022a15 
+
 ### [2022] 
 
 <sup>35</sup> Gámez-Guadix, M., **Sorrel, M. A.**, & Martínez-Bacaicoa, J. Technology facilitated sexual violence perpetration and victimization among adolescents: A network analysis (2022). *Sexuality Research and Social Policy*. https://doi.org/10.1007/s13178-022-00775-y 
+
 <sup>34</sup> Kreitchmann, R. S., de la Torre, J., **Sorrel, M. A.**, Nájera, P., & Abad, F. J. (2022). Improving reliability estimation in cognitive diagnosis modeling. *Behavior Research Methods*, 1-15. https://doi.org/10.3758/s13428-022-01967-5
 
 <sup>33</sup> Gutierrez, F., Aluja, A., Ruiz-Rodríguez, J., Peri, J., Gárriz, M., García, L., **Sorrel, M. A.**, Sureda, B., Vall, G., Ferrer, M., & Calvo, N. Borderline, Where Are You? A Psychometric and Symptomic Approach to the ICD-11 Personality Domains (2022). *Personality Disorders: Theory, Research, and Treatment*. https://doi.org/10.1037/per0000592
@@ -96,6 +110,9 @@ title: "Publications"
 <sup>2</sup> Lievens, F., Corstjens, J., **Sorrel, M. A.**, Abad, F. J., Olea, J., & Ponsoda, V. (2015). The cross‐cultural transportability of situational judgment tests: How does a US‐based integrity situational judgment test fare in España?. *International Journal of Selection and Assessment*, *23*, 361-372.
 
 <sup>1</sup> Collado, S., Corraliza, J. A., **Sorrel, M. A.**, & W Evans, G. (2015). Spanish version of the Children’s Ecological Behavior (CEB) scale. *Psicothema*, *26*, 82-87.
+
+### [Book Chapters]
+de la Torre, J., & **Sorrel, M. A.** (2023). *Cognitive Diagnosis Models.* In F. Ashby, H. Colonius, & E. Dzhafarov (Eds.), New Handbook of Mathematical Psychology (Cambridge Handbooks in Psychology, pp. 385-420). Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108902724.010 
 
 ### [Dissertation]
 Advances in Cognitive Diagnosis Modeling (2018, April). You can find my dissertation here https://repositorio.uam.es/handle/10486/682712. It was co-advised by Francisco J. Abad and Julio Olea.

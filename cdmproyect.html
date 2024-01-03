@@ -13,7 +13,7 @@
 
 <title>Diagnostic evaluation in small sample conditions</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -179,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -188,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -307,6 +300,49 @@ conditions</h1>
 educational contexts</strong> research team:</p>
 <p><img src="images/team.png" style="width:100.0%" /></p>
 <p>Some results:</p>
+<p><span style="color:blue"> <sup>7</sup> Ma, W., <strong>Sorrel, M.
+A.</strong>, Ge, Y., &amp; Zhai, X. (manuscript accepted for
+publication). A dual-purpose model for estimating ability and
+misconceptions. <em>Journal of Educational Measurement</em>.</p>
+<p></span></p>
+<p>Existing diagnostic models mainly identify students’ mastery of
+skills, with limited focus on uncovering specific scientific
+misconceptions. This article introduces a dual-purpose model (GDPM) to
+concurrently estimate overall ability and detect misconceptions. An
+expectation-maximization algorithm is devised for parameter estimation.
+A simulation study assesses parameter recovery accuracy under diverse
+conditions. Real data from science education validates the model’s
+practical viability.</p>
+<p><span style="color:blue"> <sup>6</sup> de la Torre, J., &amp;
+<strong>Sorrel, M. A.</strong> (2023). <em>Cognitive Diagnosis
+Models</em>. In F. Ashby, H. Colonius, &amp; E. Dzhafarov (Eds.), New
+Handbook of Mathematical Psychology (Cambridge Handbooks in Psychology,
+pp. 385-420). Cambridge: Cambridge University Press. <a
+href="https://doi.org/10.1017/9781108902724.010"
+class="uri">https://doi.org/10.1017/9781108902724.010</a></p>
+<p></span></p>
+<p>Cognitive diagnosis models, originating in educational measurement,
+offer detailed insights for formative assessment by classifying
+examinees on binary attributes. This chapter provides a concise overview
+of original models, extensions, and recent methodological developments.
+Topics covered include model estimation, Q-matrix specification, model
+fit evaluation, and procedures for validity and reliability. The chapter
+concludes with a discussion on future trends in the field.</p>
+<p><span style="color:blue"> <sup>5</sup> <strong>Sorrel, M.
+A.</strong>, Escudero, S., Nájera, P., Kreitchmann, R. S., &amp;
+Vázquez-Lira, R. (2023). Exploring approaches for estimating parameters
+in cognitive diagnosis models with small sample sizes. <em>Psych</em>,
+<em>5</em>(2), 336-349. <a href="https://doi.org/10.3390/psych5020023"
+class="uri">https://doi.org/10.3390/psych5020023</a> </span></p>
+<p>Commonly used MMLE-EM estimation in CDMs faces issues with small
+sample sizes. This study compares various estimation methods for CDMs
+across sample sizes, using simulated and real data. Methods include
+MMLE-EM, Bayes modal, Markov chain Monte Carlo, non-parametric, and
+parsimonious parametric models like Restricted DINA. Findings show
+alternatives outperform MMLE-EM with small samples, yielding comparable
+results with larger samples. Practitioners should consider alternatives
+for accurate CDM parameter estimates with small samples. This study
+guides parameter estimation to maximize CDM potential.</p>
 <p><span style="color:blue"> <sup>4</sup> Nájera, P., Abad, F.J., Chiu,
 C-Y., &amp; <strong>Sorrel, M.A.</strong> (manuscript accepted for
 publication). A Comprehensive Cognitive Diagnostic Method for
@@ -320,8 +356,8 @@ version at Github (<a href="https://github.com/Pablo-Najera/cdmTools/"
 class="uri">https://github.com/Pablo-Najera/cdmTools/</a>). We’ll submit
 shortly an updated version of the package to CRAN.</p>
 <p><span style="color:blue"> <sup>3</sup> Sanz, S., Kreitchmann, R. S.,
-Nájera, P., Moreno, J. D., Martínez-Huertas, J. A., &amp; Sorrel, M. A.
-(manuscript accepted for publication). FoCo: A Shiny app for formative
+Nájera, P., Moreno, J. D., Martínez-Huertas, J. A., &amp;
+<strong>Sorrel, M. A.</strong>. FoCo: A Shiny app for formative
 assessment using cognitive diagnosis modeling. <em>Psicología
 Educativa</em>. </span></p>
 <p>In this paper we examine the FoCo Shiny app to conduct CDM analysis.

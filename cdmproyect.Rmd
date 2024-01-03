@@ -9,13 +9,33 @@ title: "Diagnostic evaluation in small sample conditions"
 Some results:
 
 <span style="color:blue">
+<sup>7</sup> Ma, W., **Sorrel, M. A.**, Ge, Y., & Zhai, X. (manuscript accepted for publication). A dual-purpose model for estimating ability and misconceptions. *Journal of Educational Measurement*.
+ 
+</span>
+
+Existing diagnostic models mainly identify students' mastery of skills, with limited focus on uncovering specific scientific misconceptions. This article introduces a dual-purpose model (GDPM) to concurrently estimate overall ability and detect misconceptions. An expectation-maximization algorithm is devised for parameter estimation. A simulation study assesses parameter recovery accuracy under diverse conditions. Real data from science education validates the model's practical viability.
+
+<span style="color:blue">
+<sup>6</sup> de la Torre, J., & **Sorrel, M. A.** (2023). *Cognitive Diagnosis Models*. In F. Ashby, H. Colonius, & E. Dzhafarov (Eds.), New Handbook of Mathematical Psychology (Cambridge Handbooks in Psychology, pp. 385-420). Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108902724.010 
+ 
+</span>
+
+Cognitive diagnosis models, originating in educational measurement, offer detailed insights for formative assessment by classifying examinees on binary attributes. This chapter provides a concise overview of original models, extensions, and recent methodological developments. Topics covered include model estimation, Q-matrix specification, model fit evaluation, and procedures for validity and reliability. The chapter concludes with a discussion on future trends in the field.
+
+<span style="color:blue">
+<sup>5</sup> **Sorrel, M. A.**, Escudero, S., Nájera, P., Kreitchmann, R. S., & Vázquez-Lira, R. (2023). Exploring approaches for estimating parameters in cognitive diagnosis models with small sample sizes. *Psych*, *5*(2), 336-349. https://doi.org/10.3390/psych5020023 
+</span>
+
+Commonly used MMLE-EM estimation in CDMs faces issues with small sample sizes. This study compares various estimation methods for CDMs across sample sizes, using simulated and real data. Methods include MMLE-EM, Bayes modal, Markov chain Monte Carlo, non-parametric, and parsimonious parametric models like Restricted DINA. Findings show alternatives outperform MMLE-EM with small samples, yielding comparable results with larger samples. Practitioners should consider alternatives for accurate CDM parameter estimates with small samples. This study guides parameter estimation to maximize CDM potential.
+
+<span style="color:blue">
 <sup>4</sup> Nájera, P., Abad, F.J., Chiu, C-Y., & **Sorrel, M.A.** (manuscript accepted for publication). A Comprehensive Cognitive Diagnostic Method for Classroom-Level Assessments. *Journal of Educational and Behavioral Statistics*. 
 </span>
 
 Here we propose a one-parameter CDM that can provides accurate classifications and posterior probabilities under small sample scenarios. The model is already available at the *cdmTools* R package, please check the *RDINA()* function at the package version at Github (https://github.com/Pablo-Najera/cdmTools/). We'll submit shortly an updated version of the package to CRAN.
 
 <span style="color:blue">
-<sup>3</sup> Sanz, S., Kreitchmann, R. S., Nájera, P., Moreno, J. D., Martínez-Huertas, J. A., & Sorrel, M. A. (manuscript accepted for publication). FoCo: A Shiny app for formative assessment using cognitive diagnosis modeling. *Psicología Educativa*. 
+<sup>3</sup> Sanz, S., Kreitchmann, R. S., Nájera, P., Moreno, J. D., Martínez-Huertas, J. A., & **Sorrel, M. A.**. FoCo: A Shiny app for formative assessment using cognitive diagnosis modeling. *Psicología Educativa*. 
 </span>
 
 In this paper we examine the FoCo Shiny app to conduct CDM analysis. This is a user-friendly menu-based software in Spanish. The goal is to make CDM analysis more accesible to the broader audience and potential users.
