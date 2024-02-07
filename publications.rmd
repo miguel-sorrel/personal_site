@@ -2,6 +2,11 @@
 title: "CV"
 ---
 
+<<<<<<< HEAD
+=======
+## CV
+
+>>>>>>> 0cd5c1ed1c5169404607aed4ae7ea82f01a8de08
 You can download my CV [here](images/CV_masl_2402.pdf).
 
 ## Publications
