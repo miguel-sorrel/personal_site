@@ -1,7 +1,7 @@
 # info from: https://livefreeordichotomize.com/2017/08/08/how-to-make-an-rmarkdown-website/
 
 # update rmarkdown
-# install.packages("rmarkdown", type = "source")
+  # install.packages("rmarkdown", type = "source")
 
 # Step 1: Git on with it
 # create new repository

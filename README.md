@@ -1,5 +1,1 @@
-# Website:
-
-https://miguel-sorrel.github.io/personal_site/
-
-*Page under construction*
+1b 2b 3b 4a 5c 6c 7c 8b 13c 14a 15c Modelo A: 9b 10b 11a 12a Modelo B: 9b 10b 11c 12c

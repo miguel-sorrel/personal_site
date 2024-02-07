@@ -9,7 +9,9 @@ navbar:
       href: projects.html  
     - text: "Small Sample CDM"     
       href: cdmproyect.html  
-    - text: "Publications"     
+    - text: "Adaptive Testing with New Formats"     
+      href: catproyect.html  
+    - text: "CV"     
       href: publications.html  
     # - text: "cdcatR Illustration"     
     #   href: cdcatR.html  

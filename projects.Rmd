@@ -4,9 +4,13 @@ title: "Projects"
 
 ## [Research Projects] 
 
+* **Computerized adaptive tests based on new assessment formats**. Co-Principal Investigator (with Francisco J. Abad). (01/09/2023 - 31/08/2027. €37,675)
+
+Research Team: Jimmy de la Torre, Pablo Nájera, Rodrigo S. Kreicthmann, María D. Nieto, Francisco J. Román, Iwin Leenen, Marcos Jiménez-Hernández, and Luis E. Garrido. This work has been funded by the Spanish Ministry of Science and Innovation (Reference PID2022-137258NB-I00).
+
 * **Study of statistical procedures for diagnostic evaluation in educational contexts**. Principal Investigator. (01/01/2022 - 31/12/2023. €7,358.66)
 
-Research Team: Francisco J. Abad, Jimmy de la Torre, Pablo Nájera(1), and Rodrigo S. Kreicthmann(1) [(1): to be incorporated]. This work has been funded by the Community of Madrid through the Pluriannual Agreement with the Universidad de Universidad Autónoma de Madrid in its Programa de Estímulo a la Investigación de Jóvenes Doctores (Reference SI3/PJI/2021-00258).
+Research Team: Francisco J. Abad, Jimmy de la Torre, Pablo Nájera, and Rodrigo S. Kreicthmann. This work has been funded by the Community of Madrid through the Pluriannual Agreement with the Universidad de Universidad Autónoma de Madrid in its Programa de Estímulo a la Investigación de Jóvenes Doctores (Reference SI3/PJI/2021-00258).
 
 ## [Software] 
 
@@ -52,6 +56,13 @@ Ma, W. & de la Torre, J. (2022).*GDINA: The generalized DINA model framework*. R
 
 Tutorial:
 Shi, Q., Ma, W., Robitzsch, A., Sorrel, M. A., Man, K. (2021). Cognitive diagnosis analysis in the G-DINA model using R. *Psych*, 3(4), 812-835. https://doi.org/10.3390/psych3040052
+
+* **psychbootcamp** creator, maintainer
+
+Citation:
+Sorrel, M.A., & Nájera, P. (2023). *psychbootcamp: Datasets and challenges to learn Psychometrics in R*. R package version 0.1.0. <https://github.com/miguel-sorrel/psychbootcamp>
+
+Innovation Project PS_003.22_INN and PS_004.23_IMP supported by UAM. Other team members are: Francisco Jose Abad,  Carmen García, and Agustín Martínez-Molina.
 
 #### [Computer programs and Apps] 
 
