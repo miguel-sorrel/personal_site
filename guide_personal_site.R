@@ -23,3 +23,5 @@ rmarkdown::render_site()
 https://miguel-sorrel.github.io/personal_site/
 
 # en terminar git reset para parar los merge que son buble
+# y esto:
+  # https://stackoverflow.com/questions/11646107/you-have-not-concluded-your-merge-merge-head-exists
