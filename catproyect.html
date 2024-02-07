@@ -11,7 +11,7 @@
 
 
 
-<title>Diagnostic evaluation in small sample conditions</title>
+<title>Adaptive Testing with New Formats</title>
 
 <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -293,105 +293,20 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Diagnostic evaluation in small sample
-conditions</h1>
+<h1 class="title toc-ignore">Adaptive Testing with New Formats</h1>
 
 </div>
 
 
-<p><strong>Study of statistical procedures for diagnostic evaluation in
-educational contexts</strong> research team:</p>
-<p><img src="images/team.png" style="width:100.0%" /></p>
-<p>Some results:</p>
-<p><span style="color:blue"> <sup>7</sup> Ma, W., <strong>Sorrel, M.
-A.</strong>, Ge, Y., &amp; Zhai, X. (manuscript accepted for
-publication). A dual-purpose model for estimating ability and
-misconceptions. <em>Journal of Educational Measurement</em>.</p>
-<p></span></p>
-<p>Existing diagnostic models mainly identify students’ mastery of
-skills, with limited focus on uncovering specific scientific
-misconceptions. This article introduces a dual-purpose model (GDPM) to
-concurrently estimate overall ability and detect misconceptions. An
-expectation-maximization algorithm is devised for parameter estimation.
-A simulation study assesses parameter recovery accuracy under diverse
-conditions. Real data from science education validates the model’s
-practical viability.</p>
-<p><span style="color:blue"> <sup>6</sup> de la Torre, J., &amp;
-<strong>Sorrel, M. A.</strong> (2023). <em>Cognitive Diagnosis
-Models</em>. In F. Ashby, H. Colonius, &amp; E. Dzhafarov (Eds.), New
-Handbook of Mathematical Psychology (Cambridge Handbooks in Psychology,
-pp. 385-420). Cambridge: Cambridge University Press. <a
-href="https://doi.org/10.1017/9781108902724.010"
-class="uri">https://doi.org/10.1017/9781108902724.010</a></p>
-<p></span></p>
-<p>Cognitive diagnosis models, originating in educational measurement,
-offer detailed insights for formative assessment by classifying
-examinees on binary attributes. This chapter provides a concise overview
-of original models, extensions, and recent methodological developments.
-Topics covered include model estimation, Q-matrix specification, model
-fit evaluation, and procedures for validity and reliability. The chapter
-concludes with a discussion on future trends in the field.</p>
-<p><span style="color:blue"> <sup>5</sup> <strong>Sorrel, M.
-A.</strong>, Escudero, S., Nájera, P., Kreitchmann, R. S., &amp;
-Vázquez-Lira, R. (2023). Exploring approaches for estimating parameters
-in cognitive diagnosis models with small sample sizes. <em>Psych</em>,
-<em>5</em>(2), 336-349. <a href="https://doi.org/10.3390/psych5020023"
-class="uri">https://doi.org/10.3390/psych5020023</a> </span></p>
-<p>Commonly used MMLE-EM estimation in CDMs faces issues with small
-sample sizes. This study compares various estimation methods for CDMs
-across sample sizes, using simulated and real data. Methods include
-MMLE-EM, Bayes modal, Markov chain Monte Carlo, non-parametric, and
-parsimonious parametric models like Restricted DINA. Findings show
-alternatives outperform MMLE-EM with small samples, yielding comparable
-results with larger samples. Practitioners should consider alternatives
-for accurate CDM parameter estimates with small samples. This study
-guides parameter estimation to maximize CDM potential.</p>
-<p><span style="color:blue"> <sup>4</sup> Nájera, P., Abad, F.J., Chiu,
-C-Y., &amp; <strong>Sorrel, M.A.</strong> (manuscript accepted for
-publication). A Comprehensive Cognitive Diagnostic Method for
-Classroom-Level Assessments. <em>Journal of Educational and Behavioral
-Statistics</em>. </span></p>
-<p>Here we propose a one-parameter CDM that can provides accurate
-classifications and posterior probabilities under small sample
-scenarios. The model is already available at the <em>cdmTools</em> R
-package, please check the <em>RDINA()</em> function at the package
-version at Github (<a href="https://github.com/Pablo-Najera/cdmTools/"
-class="uri">https://github.com/Pablo-Najera/cdmTools/</a>). We’ll submit
-shortly an updated version of the package to CRAN.</p>
-<p><span style="color:blue"> <sup>3</sup> Sanz, S., Kreitchmann, R. S.,
-Nájera, P., Moreno, J. D., Martínez-Huertas, J. A., &amp;
-<strong>Sorrel, M. A.</strong>. FoCo: A Shiny app for formative
-assessment using cognitive diagnosis modeling. <em>Psicología
-Educativa</em>. </span></p>
-<p>In this paper we examine the FoCo Shiny app to conduct CDM analysis.
-This is a user-friendly menu-based software in Spanish. The goal is to
-make CDM analysis more accesible to the broader audience and potential
-users.</p>
-<p>You can find the app here: <a
-href="https://psychometricmodelling.shinyapps.io/FoCo/"
-class="uri">https://psychometricmodelling.shinyapps.io/FoCo/</a></p>
-<p><span style="color:blue"> <sup>2</sup> Kreitchmann, R. S., de la
-Torre, J., <strong>Sorrel, M. A.</strong>, Nájera, P., &amp; Abad, F. J.
-(2022). Improving reliability estimation in cognitive diagnosis
-modeling. <em>Behavior Research Methods</em>, 1-15. <a
-href="https://doi.org/10.3758/s13428-022-01967-5"
-class="uri">https://doi.org/10.3758/s13428-022-01967-5</a> </span></p>
-<p>Item parameter estimates under small sample settings might be
-unreliable. Thus, in this paper we proposed a multiple imputation
-procedure to account for the item parameter uncertainty in the
-computation of classification accuracy measures.</p>
-<p>This new procedure is available at the cdmTools R package. The only
-required input is a calibrated CDM using the GDINA R package:</p>
-<p>cdmTools::CA.MI(GDINA.obj)</p>
-<p><span style="color:blue"> <sup>1</sup> Franco-Martínez, A., Alvarado,
-J., &amp; <strong>Sorrel, M. A.</strong> (in press). Range restriction
-affects factor analysis: Normality, estimation, fit, loadings, and
-reliability. <em>Educational and Psychological Measurement</em>. <a
-href="https://doig.org/10.1177/00131644221081867"
-class="uri">https://doig.org/10.1177/00131644221081867</a> </span></p>
-<p>Range restriction is likely to happen when the sampling procedure is
-not random. In this paper we illustrate the implications that this might
-have in the context of factor analysis.</p>
+<p><strong>Computerized adaptive tests based on new assessment
+formats</strong> research team:</p>
+<p><img src="images/team2.png" style="width:100.0%" /></p>
+<p>Since September 2023, we have been launching this exciting project in
+which we will address topics such as the use of the graded response
+format in adaptive tests, the exploration of factorial structure, or the
+discussion on whether models for continuous or discrete traits should be
+employed to maximize reliability. We’ll be sharing the results here,
+stay tuned!</p>
 
 
 

@@ -13,7 +13,7 @@
 
 <title>Home</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -179,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -188,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -260,7 +253,10 @@ $(document).ready(function () {
   <a href="cdmproyect.html">Small Sample CDM</a>
 </li>
 <li>
-  <a href="publications.html">Publications</a>
+  <a href="catproyect.html">Adaptive Testing with New Formats</a>
+</li>
+<li>
+  <a href="publications.html">CV</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -305,9 +301,11 @@ $(document).ready(function () {
 <p>Welcome to my website! Since 2019 I am Assistant Professor in
 Methodology at the Autonomous University of Madrid. On this website you
 can find information about my research projects and the software I have
-developed. You can contact me on: <a href="mailto:miguel.sorrel@uam.es"
-class="email">miguel.sorrel@uam.es</a>. Also check out my Github site!
-Here is the hexsticker for the cdcatR package.</p>
+developed. You can contact me via email (<a
+href="mailto:miguel.sorrel@uam.es"
+class="email">miguel.sorrel@uam.es</a>) or Twitter (<span
+class="citation">@MigSorrel</span>). Also check out my Github site! Here
+is the hexsticker for the cdcatR package.</p>
 <center>
 <table>
 <colgroup>
@@ -325,13 +323,13 @@ style="width:40.0%" /></td>
 </center>
 <div id="news" class="section level4">
 <h4>NEWS!</h4>
-<p>We have sent several papers to the EAM congress organized in Ghent
-(Belgium) that will be held from July 11 to 13. We are also presenting a
-paper in a virtual session of NCME this March.</p>
-<p><a href="https://eam2023.ugent.be/"
-class="uri">https://eam2023.ugent.be/</a></p>
-<p><a href="https://www.ncme.org/home"
-class="uri">https://www.ncme.org/home</a></p>
+<p>This year, we plan to attend the conferences of ITC in Granada (<a
+href="https://www.itc2024granada.com/"
+class="uri">https://www.itc2024granada.com/</a>), Psychometric Society
+in Prague (<a href="https://www.psychometricsociety.org/imps-2024"
+class="uri">https://www.psychometricsociety.org/imps-2024</a>), and
+AEMCCO in Seville (<a href="https://aemcco.org/"
+class="uri">https://aemcco.org/</a>).</p>
 </div>
 
 

@@ -1,7 +1,7 @@
 # info from: https://livefreeordichotomize.com/2017/08/08/how-to-make-an-rmarkdown-website/
 
 # update rmarkdown
-# install.packages("rmarkdown", type = "source")
+  # install.packages("rmarkdown", type = "source")
 
 # Step 1: Git on with it
 # create new repository
@@ -22,3 +22,4 @@ rmarkdown::render_site()
 
 https://miguel-sorrel.github.io/personal_site/
 
+# en terminar git reset para parar los merge que son buble
