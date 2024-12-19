@@ -2,13 +2,19 @@
 title: "CV"
 ---
 
-You can download my CV [here](images/CV_masl_2402.pdf).
+You can download my CV [here](images/CV_masl_2412.pdf).
 
 ## Publications
 
 You can also check <https://portalcientifico.uam.es/es/ipublic/researcher/271101> or <https://scholar.google.es/schhp?hl=es>. 
 
 ### [2024/in press]
+
+<sup>52</sup>  Iglesias, D., **Sorrel, M. A.**, & Olmos, R. (manuscript accepted for publication). Cross-validation and predictive metrics in psychological research: Do not leave out the leave-one-out. *Behavioral Research Methods*
+
+<sup>51</sup>  Hernández-Gutiérrez, D., **Sorrel, M. A.**, Shanks, D., & Vadillo, M. (manuscript accepted for publication). The conscious side of ‘subliminal’ linguistic priming: a systematic review with meta-analysis and reliability analysis of visibility measures. *Journal of Cognition*. https://doi.org/10.31234/osf.io/j6vc3
+
+<sup>50</sup> Graña, D. F., Kreitchmann, R. S., Abad, F. J., & **Sorrel, M. A.** (manuscript accepted for publication). Comparing equally and unequally keyed items in forced choice blocks. *Journal of Personality Assessment*.
 
 <sup>49</sup> Aguado, V., **Sorrel, M. A.**, Corral, S., & Martínez-Pampliega, A. (2024) Level of Expressed Emotion Scale: Spanish validation for the general adolescent population and development of a short version. *Annals of Psychology*, *40*(3), 373-384. https://doi.org/10.6018/analesps.583411
 
