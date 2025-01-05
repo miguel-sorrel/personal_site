@@ -29,5 +29,5 @@ navbar:
       href: https://twitter.com/MigSorrel
 output:
   html_document:
-    theme: flatly
+    theme: cosmo
     css: style.css 

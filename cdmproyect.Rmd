@@ -9,7 +9,7 @@ title: "Diagnostic evaluation in small sample conditions"
 Some results:
 
 <span style="color:blue">
-<sup>7</sup> Ma, W., **Sorrel, M. A.**, Ge, Y., & Zhai, X. (manuscript accepted for publication). A dual-purpose model for estimating ability and misconceptions. *Journal of Educational Measurement*.
+<sup>7</sup> Ma, W., **Sorrel, M. A.**, Ge, Y., & Zhai, X. (2024). A dual-purpose model for estimating ability and misconceptions. *Journal of Educational Measurement*. https://doi.org/10.1111/jedm.12383
  
 </span>
 
@@ -29,13 +29,13 @@ Cognitive diagnosis models, originating in educational measurement, offer detail
 Commonly used MMLE-EM estimation in CDMs faces issues with small sample sizes. This study compares various estimation methods for CDMs across sample sizes, using simulated and real data. Methods include MMLE-EM, Bayes modal, Markov chain Monte Carlo, non-parametric, and parsimonious parametric models like Restricted DINA. Findings show alternatives outperform MMLE-EM with small samples, yielding comparable results with larger samples. Practitioners should consider alternatives for accurate CDM parameter estimates with small samples. This study guides parameter estimation to maximize CDM potential.
 
 <span style="color:blue">
-<sup>4</sup> Nájera, P., Abad, F.J., Chiu, C-Y., & **Sorrel, M.A.** (manuscript accepted for publication). A Comprehensive Cognitive Diagnostic Method for Classroom-Level Assessments. *Journal of Educational and Behavioral Statistics*. 
+<sup>4</sup> Nájera, P., Abad, F.J., Chiu, C-Y., & **Sorrel, M.A.** (2023). A Comprehensive Cognitive Diagnostic Method for Classroom-Level Assessments. *Journal of Educational and Behavioral Statistics*. https://doi.org/10.3102/10769986231158829
 </span>
 
 Here we propose a one-parameter CDM that can provides accurate classifications and posterior probabilities under small sample scenarios. The model is already available at the *cdmTools* R package, please check the *RDINA()* function at the package version at Github (https://github.com/Pablo-Najera/cdmTools/). We'll submit shortly an updated version of the package to CRAN.
 
 <span style="color:blue">
-<sup>3</sup> Sanz, S., Kreitchmann, R. S., Nájera, P., Moreno, J. D., Martínez-Huertas, J. A., & **Sorrel, M. A.**. FoCo: A Shiny app for formative assessment using cognitive diagnosis modeling. *Psicología Educativa*. 
+<sup>3</sup> Sanz, S., Kreitchmann, R. S., Nájera, P., Moreno, J. D., Martínez-Huertas, J. A., & **Sorrel, M. A.**. (2023). FoCo: A Shiny app for formative assessment using cognitive diagnosis modeling. *Psicología Educativa*. 
 </span>
 
 In this paper we examine the FoCo Shiny app to conduct CDM analysis. This is a user-friendly menu-based software in Spanish. The goal is to make CDM analysis more accesible to the broader audience and potential users.
@@ -43,7 +43,7 @@ In this paper we examine the FoCo Shiny app to conduct CDM analysis. This is a u
 You can find the app here: https://psychometricmodelling.shinyapps.io/FoCo/
 
 <span style="color:blue">
-<sup>2</sup> Kreitchmann, R. S., de la Torre, J., **Sorrel, M. A.**, Nájera, P., & Abad, F. J. (2022). Improving reliability estimation in cognitive diagnosis modeling. *Behavior Research Methods*, 1-15. https://doi.org/10.3758/s13428-022-01967-5
+<sup>2</sup> Kreitchmann, R. S., de la Torre, J., **Sorrel, M. A.**, Nájera, P., & Abad, F. J. (2023). Improving reliability estimation in cognitive diagnosis modeling. *Behavior Research Methods*, 1-15. https://doi.org/10.3758/s13428-022-01967-5
 </span>
 
 Item parameter estimates under small sample settings might be unreliable. Thus, in this paper we proposed a multiple imputation procedure to account for the item parameter uncertainty in the computation of classification accuracy measures. 
@@ -53,7 +53,7 @@ This new procedure is available at the cdmTools R package. The only required inp
 cdmTools::CA.MI(GDINA.obj)
 
 <span style="color:blue">
-<sup>1</sup> Franco-Martínez, A., Alvarado, J., & **Sorrel, M. A.** (in press). Range restriction affects factor analysis: Normality, estimation, fit, loadings, and reliability. *Educational and Psychological Measurement*. https://doig.org/10.1177/00131644221081867
+<sup>1</sup> Franco-Martínez, A., Alvarado, J., & **Sorrel, M. A.** (2023). Range restriction affects factor analysis: Normality, estimation, fit, loadings, and reliability. *Educational and Psychological Measurement*. https://doig.org/10.1177/00131644221081867
 </span>
 
 Range restriction is likely to happen when the sampling procedure is not random. In this paper we illustrate the implications that this might have in the context of factor analysis.

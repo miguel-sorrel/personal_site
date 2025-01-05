@@ -7,3 +7,12 @@ title: "Adaptive Testing with New Formats"
 ![](images/team2.png){width=100%}
 
 Since September 2023, we have been launching this exciting project in which we will address topics such as the use of the graded response format in adaptive tests, the exploration of factorial structure, or the discussion on whether models for continuous or discrete traits should be employed to maximize reliability. We'll be sharing the results here, stay tuned!
+
+Some results:
+
+<span style="color:blue">
+<sup>1</sup> Graña, D. F., S. Kreitchmann, R., Abad, F. J., & **Sorrel, M. A.** (2024). Equally vs. unequally keyed blocks in forced-choice questionnaires: Implications on validity and reliability. *Journal of Personality Assessment*, 1-14. https://doi.org/10.1080/00223891.2024.2420869
+ 
+</span>
+
+Forced-choice (FC) questionnaires have gained interest, but the inclusion of unequally keyed item pairs remains debated. Unequal pairs may introduce social desirability issues but could enhance reliability and score interpretation. A study with 1,125 psychology students compared two FC questionnaires (with and without unequally keyed pairs) and assessed reliability, validity, and ipsativity. The results showed no significant differences in reliability, validity, or ipsativity, suggesting no clear advantage for one format. The study recommends using equally keyed blocks to avoid potential validity issues due to response biases.

@@ -1,17 +1,41 @@
 ---
-title: "Home"
+title: "Welcome to My Website!"
 ---
 
-Welcome to my website!  I am Associate Professor in Methodology at the [Autonomous University of Madrid](https://www.uam.es/uam/en/inicio). On this website you can find information about my research projects and the software I have developed. You can contact me via email (miguel.sorrel@uam.es) or Twitter ([@MigSorrel](https://x.com/MigSorrel)). Also check out my [Github site]((https://github.com/miguel-sorrel))! Here is the hexsticker for the [cdcatR](https://cran.r-project.org/web/packages/cdcatR/index.html) R package.
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 70%; vertical-align: top; padding-right: 20px;">
+      Hello! I am an **Associate Professor in Methodology** at the [Autonomous University of Madrid](https://www.uam.es/uam/en/inicio).  
+      This website showcases my **research projects**, the **software** I've developed, and upcoming events I'll attend.  
 
-<center>
+      Feel free to reach out to me via:  
+      - 📧 Email: [miguel.sorrel@uam.es](mailto:miguel.sorrel@uam.es)  
+      - 🐦 Twitter: [@MigSorrel](https://x.com/MigSorrel)  
+      - 💻 GitHub: [miguel-sorrel](https://github.com/miguel-sorrel)
+    </td>
+    <td style="width: 30%; text-align: center;">
+      <img src="images/miguel-sorrel-small.png" alt="Miguel Sorrel" style="border-radius: 50%; width: 150px; border: 2px solid #ccc;">
+    </td>
+  </tr>
+</table>
 
-|   |   |
-|---|---|
-| ![](images/cdcatR_hex.png){width=40%}| ![](images/miguel-sorrel-small.png){width=40%} |
+---
 
-</center>
+## Featured Project: `cdcatR` R Package
+Here’s the hexsticker for the [`cdcatR`](https://cran.r-project.org/web/packages/cdcatR/index.html) R package, designed to support cognitive diagnostic computerized adaptive testing in R.
 
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+  <img src="images/cdcatR_hex.png" alt="cdcatR Hexsticker" width="200">
+</div>
 
-#### NEWS!
-This year, we plan to attend the conferences of ITC in Granada (https://www.itc2024granada.com/), Psychometric Society in Prague (https://www.psychometricsociety.org/imps-2024), and AEMCCO in Seville (https://aemcco.org/).
+---
+
+## 📢 News & Upcoming Events
+This year, I plan to attend the following conferences:  
+- 📊 [EAM 2025](https://wp.ull.es/eam2025/) – Tenerife, Spain  
+
+Stay tuned for updates and insights from these events!
+
+---
+
+Thank you for visiting! I hope you find this site useful. 🚀
