@@ -8,13 +8,21 @@ You can download my CV [here](images/CV_masl_2412.pdf).
 
 You can also check <https://portalcientifico.uam.es/es/ipublic/researcher/271101> or <https://scholar.google.es/schhp?hl=es>. 
 
-### [2024/in press]
+### [2025/in press]
 
-<sup>52</sup>  Iglesias, D., **Sorrel, M. A.**, & Olmos, R. (manuscript accepted for publication). Cross-validation and predictive metrics in psychological research: Do not leave out the leave-one-out. *Behavioral Research Methods*
+<sup>55</sup> Abad, F. J., Kreitchmann, R. S., Graña, D. F., Nájera, P., & **Sorrel, M .A**. (Manuscript accepted for publication). Pruebas de elección forzosa: visión actual y recomendaciones. *Acción Psicológica*
 
-<sup>51</sup>  Hernández-Gutiérrez, D., **Sorrel, M. A.**, Shanks, D., & Vadillo, M. (manuscript accepted for publication). The conscious side of ‘subliminal’ linguistic priming: a systematic review with meta-analysis and reliability analysis of visibility measures. *Journal of Cognition*. https://doi.org/10.31234/osf.io/j6vc3
+<sup>54</sup> Nájera, P., Ma, W., **Sorrel, M. A.**, & Abad, F. J. (2025). Assessing item-level fit for the sequential G-DINA model. *Behaviormetrika*, 1-24. https://doi.org/10.1007/s41237-025-00263-8
 
-<sup>50</sup> Graña, D. F., Kreitchmann, R. S., Abad, F. J., & **Sorrel, M. A.** (manuscript accepted for publication). Comparing equally and unequally keyed items in forced choice blocks. *Journal of Personality Assessment*.
+<sup>53</sup> Nájera, P., Kreitchmann, R. S., Escudero, S., Abad, F. J., de la Torre, J., & **Sorrel, M. A**. (2025). A general diagnostic modeling framework for forced-choice items. *British Journal of Mathematical and Statistical Psychology*. https://doi.org/10.1111/bmsp.12393
+
+<sup>52</sup>  Iglesias, D., **Sorrel, M. A.**, & Olmos, R. (2025). Cross-validation and predictive metrics in psychological research: Do not leave out the leave-one-out. *Behavioral Research Methods*, *3*, 57-85. https://doi.org/10.3758/s13428-024-02588-w
+
+<sup>51</sup>  Hernández-Gutiérrez, D., **Sorrel, M. A.**, Shanks, D., & Vadillo, M. (2025). The conscious side of ‘subliminal’ linguistic priming: a systematic review with meta-analysis and reliability analysis of visibility measures. *Journal of Cognition*. https://doi.org/10.31234/osf.io/j6vc3
+
+<sup>50</sup> Graña, D. F., Kreitchmann, R. S., Abad, F. J., & **Sorrel, M. A.** (2025). Comparing equally and unequally keyed items in forced choice blocks. *Journal of Personality Assessment*, 1-14. https://doi.org/10.1080/00223891.2024.2420869
+
+### [2024]
 
 <sup>49</sup> Aguado, V., **Sorrel, M. A.**, Corral, S., & Martínez-Pampliega, A. (2024) Level of Expressed Emotion Scale: Spanish validation for the general adolescent population and development of a short version. *Annals of Psychology*, *40*(3), 373-384. https://doi.org/10.6018/analesps.583411
 

@@ -1,0 +1,75 @@
+---
+layout: page
+title: "Research Digest"
+permalink: /newsletter/
+---
+
+A semiannual overview of recent research contributions in cognitive diagnosis, forced-choice formats, and methodological advances in psychology and psychometrics. Each paper is summarized in plain language with key insights highlighted for a broad academic and applied audience.
+
+---
+
+<details open>
+<summary><strong>📚 2025 (first half) Publications Summary</strong></summary>
+
+---
+
+### 🔹 Cognitive Diagnosis and Forced-Choice Models
+
+#### 🧾 **Nájera et al. (2025)**  
+**"Assessing item-level fit for the sequential G-DINA model"**  
+*Behaviormetrika*  
+This paper addresses a gap in diagnostic classification modeling: how to assess whether each item in a test fits the assumed model when responses are **graded or sequential** (e.g., multi-step open-ended tasks). The authors adapt three fit indices from classical test theory—the chi-squared statistic, likelihood-ratio statistic, and power-divergence index—to work with the **Sequential G-DINA model**.
+
+**Key points:**
+- The model handles **multi-category (polytomous)** responses that depend on a latent sequence of cognitive steps.
+- Fit statistics are computed using **posterior pseudo-counts** and tested via **parametric bootstrap**.
+- Simulation results show the proposed methods are **conservative but powerful** when detecting major misspecifications.
+
+#### 🧾 **Nájera et al. (2025)**  
+**"A general diagnostic modelling framework for forced-choice assessments"**  
+*British Journal of Mathematical and Statistical Psychology*  
+This paper proposes an extension of cognitive diagnosis models to handle **forced-choice (FC) formats**, which are used to reduce response biases (e.g., social desirability). It adapts the **G-DINA model** to handle paired statements, allowing each to measure a different latent trait.
+
+**Innovations:**
+- Provides a general model for **binary forced-choice blocks** that improves on Huang’s (2023) FC-DCM by allowing more flexible response patterns.
+- Accommodates **heteropolar and homopolar** blocks, enabling normative interpretation of traits.
+- Supports practical implementation with **Q-matrix design guidelines**, Bayesian estimation, and software integration via the `GDINA` R package.
+
+---
+
+### 🔹 Questionnaire Design and Response Bias
+
+#### 🧾 **Graña, Kreitchmann, Abad, & Sorrel (2024)**  
+**"Equally vs. unequally keyed blocks in forced-choice questionnaires: Implications on validity and reliability"**  
+*Journal of Personality Assessment*  
+This experimental study compares **equally-keyed (homopolar)** vs. **unequally-keyed (heteropolar)** blocks in FC questionnaires measuring the Big Five. Using IRT-based models (specifically MUPP-2PL), they assess how item keying direction impacts **reliability**, **criterion validity**, and **ipsativity**.
+
+**Findings:**
+- No consistent psychometric advantage for heteropolar blocks.
+- Slight increases in reliability and validity in specific traits, but small overall effect sizes.
+- Practical difficulties in constructing heteropolar blocks with matched **social desirability** ratings.
+- Recommendations: prefer equally-keyed designs unless strong justification exists for heteropolar use.
+
+---
+
+### 🔹 Predictive Modeling in Psychology
+
+#### 🧾 **Iglesias, Sorrel, & Olmos (2025)**  
+**"Cross-validation and predictive metrics in psychological research: Do not leave out the leave-one-out"**  
+*Behavior Research Methods*  
+This methodological paper critiques standard practices for estimating **predictive accuracy** in regression models. It proposes a reformulated **leave-one-out (LOO) cross-validation** approach that computes the **out-of-sample R²** via a pooled error term (PRESS/MST), solving known biases in conventional CV implementations.
+
+**Contributions:**
+- Shows that LOO offers more stable and less biased R² estimates than 5-fold or 10-fold CV, especially in small samples.
+- Implements methods in the R package `OutR2`.
+- Simulations and real data (Many Labs Replication Project) confirm the robustness of the approach.
+
+### 🔗 Closing Thoughts
+
+These works share a common goal: enhancing the **precision, interpretability, and fairness** of psychological measurement—whether by improving test models, detecting fit issues, or refining how predictions are evaluated. Each contribution balances rigorous methodology with clear application potential in education, clinical, and organizational contexts.
+
+</details>
+
+---
+
+> All articles available upon request or via journal links. Summaries using IA by M.A. Sorrel. For collaboration, contact miguel.sorrel@uam.es.

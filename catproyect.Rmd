@@ -11,6 +11,13 @@ Since September 2023, we have been launching this exciting project in which we w
 Some results:
 
 <span style="color:blue">
+
+<sup>4</sup> Nájera, P., Ma, W., **Sorrel, M. A.**, & Abad, F. J. (2025). Assessing item-level fit for the sequential G-DINA model. *Behaviormetrika*, 1-24. https://doi.org/10.1007/s41237-025-00263-8
+
+<sup>3</sup> Nájera, P., Kreitchmann, R. S., Escudero, S., Abad, F. J., de la Torre, J., & **Sorrel, M. A**. A general diagnostic modeling framework for forced-choice items (2025). *British Journal of Mathematical and Statistical Psychology*. https://doi.org/10.1111/bmsp.12393
+
+<sup>2</sup> Iglesias, D., **Sorrel, M. A.**, & Olmos, R. Cross-validation and predictive metrics in psychological research: Do not leave out the leave-one-out (2025). *Behavioral Research Methods*, *3*, 57-85. https://doi.org/10.3758/s13428-024-02588-w
+
 <sup>1</sup> Graña, D. F., S. Kreitchmann, R., Abad, F. J., & **Sorrel, M. A.** (2024). Equally vs. unequally keyed blocks in forced-choice questionnaires: Implications on validity and reliability. *Journal of Personality Assessment*, 1-14. https://doi.org/10.1080/00223891.2024.2420869
  
 </span>

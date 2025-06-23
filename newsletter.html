@@ -11,7 +11,7 @@
 
 
 
-<title>Adaptive Testing with New Formats</title>
+<title>Research Digest</title>
 
 <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -296,56 +296,127 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Adaptive Testing with New Formats</h1>
+<h1 class="title toc-ignore">Research Digest</h1>
 
 </div>
 
 
-<p><strong>Computerized adaptive tests based on new assessment
-formats</strong> research team:</p>
-<p><img src="images/team2.png" style="width:100.0%" /></p>
-<p>Since September 2023, we have been launching this exciting project in
-which we will address topics such as the use of the graded response
-format in adaptive tests, the exploration of factorial structure, or the
-discussion on whether models for continuous or discrete traits should be
-employed to maximize reliability. We’ll be sharing the results here,
-stay tuned!</p>
-<p>Some results:</p>
-<p><span style="color:blue"></p>
-<p><sup>4</sup> Nájera, P., Ma, W., <strong>Sorrel, M. A.</strong>,
-&amp; Abad, F. J. (2025). Assessing item-level fit for the sequential
-G-DINA model. <em>Behaviormetrika</em>, 1-24. <a
-href="https://doi.org/10.1007/s41237-025-00263-8"
-class="uri">https://doi.org/10.1007/s41237-025-00263-8</a></p>
-<p><sup>3</sup> Nájera, P., Kreitchmann, R. S., Escudero, S., Abad, F.
-J., de la Torre, J., &amp; <strong>Sorrel, M. A</strong>. A general
-diagnostic modeling framework for forced-choice items (2025).
-<em>British Journal of Mathematical and Statistical Psychology</em>. <a
-href="https://doi.org/10.1111/bmsp.12393"
-class="uri">https://doi.org/10.1111/bmsp.12393</a></p>
-<p><sup>2</sup> Iglesias, D., <strong>Sorrel, M. A.</strong>, &amp;
-Olmos, R. Cross-validation and predictive metrics in psychological
-research: Do not leave out the leave-one-out (2025). <em>Behavioral
-Research Methods</em>, <em>3</em>, 57-85. <a
-href="https://doi.org/10.3758/s13428-024-02588-w"
-class="uri">https://doi.org/10.3758/s13428-024-02588-w</a></p>
-<p><sup>1</sup> Graña, D. F., S. Kreitchmann, R., Abad, F. J., &amp;
-<strong>Sorrel, M. A.</strong> (2024). Equally vs. unequally keyed
-blocks in forced-choice questionnaires: Implications on validity and
-reliability. <em>Journal of Personality Assessment</em>, 1-14. <a
-href="https://doi.org/10.1080/00223891.2024.2420869"
-class="uri">https://doi.org/10.1080/00223891.2024.2420869</a></p>
-<p></span></p>
-<p>Forced-choice (FC) questionnaires have gained interest, but the
-inclusion of unequally keyed item pairs remains debated. Unequal pairs
-may introduce social desirability issues but could enhance reliability
-and score interpretation. A study with 1,125 psychology students
-compared two FC questionnaires (with and without unequally keyed pairs)
-and assessed reliability, validity, and ipsativity. The results showed
-no significant differences in reliability, validity, or ipsativity,
-suggesting no clear advantage for one format. The study recommends using
-equally keyed blocks to avoid potential validity issues due to response
-biases.</p>
+<p>A semiannual overview of recent research contributions in cognitive
+diagnosis, forced-choice formats, and methodological advances in
+psychology and psychometrics. Each paper is summarized in plain language
+with key insights highlighted for a broad academic and applied
+audience.</p>
+<hr />
+<details open>
+<summary>
+<strong>📚 2025 (first half) Publications Summary</strong>
+</summary>
+<hr />
+<div id="cognitive-diagnosis-and-forced-choice-models"
+class="section level3">
+<h3>🔹 Cognitive Diagnosis and Forced-Choice Models</h3>
+<div id="nájera-et-al.-2025" class="section level4">
+<h4>🧾 <strong>Nájera et al. (2025)</strong></h4>
+<p><strong>“Assessing item-level fit for the sequential G-DINA
+model”</strong><br />
+<em>Behaviormetrika</em><br />
+This paper addresses a gap in diagnostic classification modeling: how to
+assess whether each item in a test fits the assumed model when responses
+are <strong>graded or sequential</strong> (e.g., multi-step open-ended
+tasks). The authors adapt three fit indices from classical test
+theory—the chi-squared statistic, likelihood-ratio statistic, and
+power-divergence index—to work with the <strong>Sequential G-DINA
+model</strong>.</p>
+<p><strong>Key points:</strong> - The model handles
+<strong>multi-category (polytomous)</strong> responses that depend on a
+latent sequence of cognitive steps. - Fit statistics are computed using
+<strong>posterior pseudo-counts</strong> and tested via
+<strong>parametric bootstrap</strong>. - Simulation results show the
+proposed methods are <strong>conservative but powerful</strong> when
+detecting major misspecifications.</p>
+</div>
+<div id="nájera-et-al.-2025-1" class="section level4">
+<h4>🧾 <strong>Nájera et al. (2025)</strong></h4>
+<p><strong>“A general diagnostic modelling framework for forced-choice
+assessments”</strong><br />
+<em>British Journal of Mathematical and Statistical
+Psychology</em><br />
+This paper proposes an extension of cognitive diagnosis models to handle
+<strong>forced-choice (FC) formats</strong>, which are used to reduce
+response biases (e.g., social desirability). It adapts the
+<strong>G-DINA model</strong> to handle paired statements, allowing each
+to measure a different latent trait.</p>
+<p><strong>Innovations:</strong> - Provides a general model for
+<strong>binary forced-choice blocks</strong> that improves on Huang’s
+(2023) FC-DCM by allowing more flexible response patterns. -
+Accommodates <strong>heteropolar and homopolar</strong> blocks, enabling
+normative interpretation of traits. - Supports practical implementation
+with <strong>Q-matrix design guidelines</strong>, Bayesian estimation,
+and software integration via the <code>GDINA</code> R package.</p>
+<hr />
+</div>
+</div>
+<div id="questionnaire-design-and-response-bias" class="section level3">
+<h3>🔹 Questionnaire Design and Response Bias</h3>
+<div id="graña-kreitchmann-abad-sorrel-2024" class="section level4">
+<h4>🧾 <strong>Graña, Kreitchmann, Abad, &amp; Sorrel
+(2024)</strong></h4>
+<p><strong>“Equally vs. unequally keyed blocks in forced-choice
+questionnaires: Implications on validity and reliability”</strong><br />
+<em>Journal of Personality Assessment</em><br />
+This experimental study compares <strong>equally-keyed
+(homopolar)</strong> vs. <strong>unequally-keyed (heteropolar)</strong>
+blocks in FC questionnaires measuring the Big Five. Using IRT-based
+models (specifically MUPP-2PL), they assess how item keying direction
+impacts <strong>reliability</strong>, <strong>criterion
+validity</strong>, and <strong>ipsativity</strong>.</p>
+<p><strong>Findings:</strong> - No consistent psychometric advantage for
+heteropolar blocks. - Slight increases in reliability and validity in
+specific traits, but small overall effect sizes. - Practical
+difficulties in constructing heteropolar blocks with matched
+<strong>social desirability</strong> ratings. - Recommendations: prefer
+equally-keyed designs unless strong justification exists for heteropolar
+use.</p>
+<hr />
+</div>
+</div>
+<div id="predictive-modeling-in-psychology" class="section level3">
+<h3>🔹 Predictive Modeling in Psychology</h3>
+<div id="iglesias-sorrel-olmos-2025" class="section level4">
+<h4>🧾 <strong>Iglesias, Sorrel, &amp; Olmos (2025)</strong></h4>
+<p><strong>“Cross-validation and predictive metrics in psychological
+research: Do not leave out the leave-one-out”</strong><br />
+<em>Behavior Research Methods</em><br />
+This methodological paper critiques standard practices for estimating
+<strong>predictive accuracy</strong> in regression models. It proposes a
+reformulated <strong>leave-one-out (LOO) cross-validation</strong>
+approach that computes the <strong>out-of-sample R²</strong> via a
+pooled error term (PRESS/MST), solving known biases in conventional CV
+implementations.</p>
+<p><strong>Contributions:</strong> - Shows that LOO offers more stable
+and less biased R² estimates than 5-fold or 10-fold CV, especially in
+small samples. - Implements methods in the R package <code>OutR2</code>.
+- Simulations and real data (Many Labs Replication Project) confirm the
+robustness of the approach.</p>
+</div>
+</div>
+<div id="closing-thoughts" class="section level3">
+<h3>🔗 Closing Thoughts</h3>
+<p>These works share a common goal: enhancing the <strong>precision,
+interpretability, and fairness</strong> of psychological
+measurement—whether by improving test models, detecting fit issues, or
+refining how predictions are evaluated. Each contribution balances
+rigorous methodology with clear application potential in education,
+clinical, and organizational contexts.</p>
+</details>
+<hr />
+<blockquote>
+<p>All articles available upon request or via journal links. Summaries
+using IA by M.A. Sorrel. For collaboration, contact <a
+href="mailto:miguel.sorrel@uam.es"
+class="email">miguel.sorrel@uam.es</a>.</p>
+</blockquote>
+</div>
 
 
 

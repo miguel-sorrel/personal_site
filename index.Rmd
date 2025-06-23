@@ -33,6 +33,7 @@ Here’s the hexsticker for the [`cdcatR`](https://cran.r-project.org/web/packag
 ## 📢 News & Upcoming Events
 This year, I plan to attend the following conferences:  
 - 📊 [EAM 2025](https://wp.ull.es/eam2025/) – Tenerife, Spain  
+- 📊 [AIIDI 2025](https://sites.google.com/view/xiv-jornadas-aiidi-2025/inicio/) – Madrid, Spain  
 
 Stay tuned for updates and insights from these events!
 

@@ -13,6 +13,8 @@ navbar:
       href: catproyect.html  
     - text: "CV"     
       href: publications.html  
+    - text: "Research Digest"     
+      href: newsletter.html  
     # - text: "cdcatR Illustration"     
     #   href: cdcatR.html  
     # - text: "Tutorials"
