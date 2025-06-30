@@ -11,6 +11,8 @@ navbar:
       href: cdmproyect.html  
     - text: "Adaptive Testing with New Formats"     
       href: catproyect.html  
+    - text: "Lab"     
+      href: lab.html  
     - text: "CV"     
       href: publications.html  
     - text: "Research Digest"     

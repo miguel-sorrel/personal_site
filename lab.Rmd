@@ -1,0 +1,61 @@
+---
+title: "Lab"
+---
+
+Network of collaborators: 
+
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+  <img src="images/red_coautoria_sorrel25.png" alt="Network of collaborators" style="max-width: 100%; width: 1000px; height: auto;">
+</div>
+
+## Lab Philosophy
+
+I want the lab to be a **healthy space** where science is enjoyable and everyone can grow.
+
+I strive to:
+
+- 🌱 Encourage curiosity and joy in doing science  
+- ⏰ Allow flexible schedules and respect personal time  
+- 🗣️ Listen and treat everyone as equals  
+- 🎉 Acknowledge work, celebrate successes, and embrace failure  
+- 🤝 Foster collaboration and professional development  
+
+I work actively to help create healthier working environments Below is a collection of resources related to my work on this topic:
+
+- **Publication**: *“It Must Have Been Burnout: Prevalence and Related Factors among Spanish PhD Students”* (https://doi.org/10.1017/SJP.2020.31)
+- **Talk**: *Feeling Burned Out During Your PhD: Prevalence and Contributing Factors*.  
+  Webinar on mental health during the PhD, organized by the CSIC Doctoral Network.  
+  [Watch on YouTube](https://www.youtube.com/watch?v=vQ_Z83XzK5M&feature=youtu.be)
+- **Radio**: Appearance on the show *Las Perras de Pavlov* (Radio Extremadura), hosted by Olga Ayuso.  
+  Episode: *Burning Out While Doing a PhD. With Miguel Sorrel* (26/03/2021). 
+  [Listen on Spotify](https://open.spotify.com/show/4e3th00oW7PGryYDTdMAon)
+- **YouTube**: Participation in the *aldemial* channel video titled *PhD and Mental Health*.  
+  [Watch the video](https://www.youtube.com/watch?v=Lx4tYV2kb5Q&t=691s)
+- **Podcast**: Guest on *Experimento Demente* by Europea Media and Ciencias Scenio.  
+  Episode: *#41 – PhD Stress, Pseudoscientific Doctors, Ismael Serrano, Viruses, and the Coriolis Effect* (20/10/2020).  
+  [Listen to the episode](https://podtail.com/es/podcast/experimiento-demente/)
+- **Press article**: Coverage by the Spanish science news agency *Agencia SINC*.  
+  [Read the article](https://www.agenciasinc.es/Noticias/Estudian-por-primera-vez-el-sindrome-del-trabajador-quemado-entre-los-doctorandos-espanoles)
+  
+---
+
+## Current PhD Students
+
+| Photo | Project |
+|-------|---------|
+| ![](images/phd_roy.png){width=100px} | **Roy La Touche**  <br> *PhD project: Behavioral, Cognitive, and Emotional Bases of Observing, Understanding, and Imagining Motor Actions in Patients with Chronic Musculoskeletal Disorders: Implications for Functional Recovery and Rehabilitation* <br> Started: 2024 <br> Co-supervised with Dra. Alba Paris (UCM) |
+| ![](images/phd_diego.png){width=100px} | **Diego Iglesias**  <br> *PhD project: Prediction and Generalization in Psychological Research* <br> Started: 2022 <br> Co-supervised with Dr. Ricardo Olmos (UAM) |
+| ![](images/phd_raul.png){width=100px} | **Raúl Castañeda**  <br> *PhD project: Medical Professionalism in Spanish Residents: Instruments and Measurement Models.* <br> Started: 2022 <br> Co-supervised with Dra. Diana Monge (UFV) |
+
+## Former PhD & Visiting Students
+
+| Photo | Project |
+|-------|---------|
+| ![](images/phd_scarlett.png){width=100px} | **Scarlett Escudero**  <br> *Research project: Optimal Assembly of Forced-Choice Questionnaires and Empirical Application of Cognitive Diagnosis Models.* <br> 2023-2025 <br> Funded by Francisco J. Abad and Carmen García thought the UAM-IIC chair of Psychometric models and applications |
+| ![](images/phd_pablo.png){width=100px} | **Pablo Nájera**  <br> *PhD project: Specification and Validation of the Latent Structure in Multidimensional Models.* <br> Phd defense: 14/02/2023	<br> Co-supervised with Dr. Francisco J. Abad (UAM) |
+| ![](images/phd_rodrigo.png){width=100px} | **Rodrigo S. Kreitchmann**  <br> *Improving the Validity of Forced-Choice Assessments Through Questionnaire Optimization* <br> Phd defense: 01/04/2022 <br> Co-supervised with Dr. Francisco J. Abad (UAM) |
+
+---
+
+> If you want to learn more about the lab or any of our research lines, feel free to contact me at miguel.sorrel@uam.es.
+

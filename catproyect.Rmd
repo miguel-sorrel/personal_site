@@ -11,15 +11,30 @@ Since September 2023, we have been launching this exciting project in which we w
 Some results:
 
 <span style="color:blue">
-
 <sup>4</sup> Nájera, P., Ma, W., **Sorrel, M. A.**, & Abad, F. J. (2025). Assessing item-level fit for the sequential G-DINA model. *Behaviormetrika*, 1-24. https://doi.org/10.1007/s41237-025-00263-8
+</span>
 
+This study addresses the need for item-level model fit assessment in the Sequential Process Model (SPM), an extension of Cognitive Diagnostic Models (CDMs) designed for graded responses. While prior work proposed tools for Q-matrix validation and category-level model selection in the SPM, item-level fit had not yet been explored. The authors adapt three well-known item-fit statistics to the SPM and evaluate their performance through simulation. Results show the methods are generally conservative but effective in detecting meaningful misspecifications, with practical guidance provided for applied use.
+
+<span style="color:blue">
 <sup>3</sup> Nájera, P., Kreitchmann, R. S., Escudero, S., Abad, F. J., de la Torre, J., & **Sorrel, M. A**. A general diagnostic modeling framework for forced-choice items (2025). *British Journal of Mathematical and Statistical Psychology*. https://doi.org/10.1111/bmsp.12393
+</span>
 
+This study extends diagnostic classification modeling (DCM) to better handle forced-choice (FC) item formats used in assessing noncognitive traits.  
+It introduces an adaptation of the G-DINA model for FC responses, addressing limitations in Huang's (2023) FC-DCM, particularly under variable item discrimination.  
+Simulation studies and a real-data application show that the adapted G-DINA model achieves more accurate classifications and better model fit.  
+The proposed method is available in the R package [*cdmTools*](https://cran.r-project.org/web/packages/cdmTools).
+
+
+<span style="color:blue">
 <sup>2</sup> Iglesias, D., **Sorrel, M. A.**, & Olmos, R. Cross-validation and predictive metrics in psychological research: Do not leave out the leave-one-out (2025). *Behavioral Research Methods*, *3*, 57-85. https://doi.org/10.3758/s13428-024-02588-w
+</span>
 
+This study explores how to better integrate explanatory and predictive practices in psychological research by improving how prediction error is estimated. It highlights the limitations of common cross-validation (CV) methods, especially when estimating prediction error in the widely used R² metric. We propose the use of an alternative method to compute leave-one-out (LOO) R², which outperforms traditional approaches. Results from simulations and real data show that this method is more accurate, and it is available in the R package [*OutR2*](https://github.com/diglesiaso/OutR2).
+
+<span style="color:blue">
 <sup>1</sup> Graña, D. F., S. Kreitchmann, R., Abad, F. J., & **Sorrel, M. A.** (2024). Equally vs. unequally keyed blocks in forced-choice questionnaires: Implications on validity and reliability. *Journal of Personality Assessment*, 1-14. https://doi.org/10.1080/00223891.2024.2420869
- 
+
 </span>
 
 Forced-choice (FC) questionnaires have gained interest, but the inclusion of unequally keyed item pairs remains debated. Unequal pairs may introduce social desirability issues but could enhance reliability and score interpretation. A study with 1,125 psychology students compared two FC questionnaires (with and without unequally keyed pairs) and assessed reliability, validity, and ipsativity. The results showed no significant differences in reliability, validity, or ipsativity, suggesting no clear advantage for one format. The study recommends using equally keyed blocks to avoid potential validity issues due to response biases.
