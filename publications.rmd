@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-You can download my CV [here](images/CV_masl_2412.pdf).
+You can download my CV [here](images/CV_masl_2508.pdf).
 
 ## Publications
 
@@ -10,7 +10,13 @@ You can also check <https://portalcientifico.uam.es/es/ipublic/researcher/271101
 
 ### [2025/in press]
 
-<sup>55</sup> Abad, F. J., Kreitchmann, R. S., Graña, D. F., Nájera, P., & **Sorrel, M .A**. (Manuscript accepted for publication). Pruebas de elección forzosa: visión actual y recomendaciones. *Acción Psicológica*
+<sup>58</sup> Nájera, P., Abad, F. J., Chiu, C-Y., & **Sorrel, M. A.** (manuscript accepted for publication). Fixed precision cognitive diagnosis CAT without a calibration sample. *Journal of Educational and Behavioral Statistics*.
+
+<sup>57</sup> Graña, D. F., Kreitchmann, R. S., **Sorrel, M. A.**, Garrido, L. E., & Abad, F. J. (manuscript accepted for publication). Beyond confirmatory: Dimensionality assessment in forced-choice data. *Educational and Psychological Measurement*.
+
+<sup>56</sup> Nieto, C., Gandía-Abellán, H., **Sorrel, M. A.**, & Garrido-Salcedo, M. (in press). Development and validation of the AIDA scale: Anxiety in people with autism and intellectual disability assessment. *Journal of Intellectual & Developmental Disability*. https://doi.org/10.3109/13668250.2025.2546162 
+
+<sup>55</sup> Abad, F. J., Kreitchmann, R. S., Graña, D. F., Nájera, P., & **Sorrel, M .A**. (2025). Pruebas de elección forzosa: visión actual y recomendaciones. *Acción Psicológica*. 22(1), 57–72. https://doi.org/10.5944/ap.22.1.43413 
 
 <sup>54</sup> Nájera, P., Ma, W., **Sorrel, M. A.**, & Abad, F. J. (2025). Assessing item-level fit for the sequential G-DINA model. *Behaviormetrika*, 1-24. https://doi.org/10.1007/s41237-025-00263-8
 
